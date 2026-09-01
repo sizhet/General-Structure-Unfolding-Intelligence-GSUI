@@ -51,8 +51,7 @@ $$
 A more complete runtime form is:
 
 $$
-S_{t+1}
-=
+S_{t+1} =
 U(S_t,\Delta_t,C_t,T_t,P_t,I_t)
 $$
 
@@ -533,8 +532,7 @@ $$
 But action-oriented intelligence needs a more operational form:
 
 $$
-WM
-=
+WM =
 WM(
 World
 \mid
@@ -718,8 +716,7 @@ An AI may internally reason however it wants.
 But software modification can still be represented structurally:
 
 $$
-CG_{t+1}
-=
+CG_{t+1} =
 CG_t
 \pm
 \Delta CG

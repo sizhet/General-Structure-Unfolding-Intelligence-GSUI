@@ -58,16 +58,14 @@ Its operational meaning depends on the capabilities, constraints, goals, embodim
 Thus:
 
 $$
-WM
-=
+WM =
 WM(World\mid Self,Context,Capability,Goal)
 $$
 
 and:
 
 $$
-\mathcal{U}
-=
+\mathcal{U} =
 \mathcal{U}(Self,World,Context)
 $$
 
@@ -528,8 +526,7 @@ Therefore:
 A more complete form is:
 
 $$
-\Delta
-=
+\Delta =
 \Delta(Self,World,Context)
 $$
 
@@ -550,8 +547,7 @@ The more precise statement is:
 Thus:
 
 $$
-Capability
-=
+Capability =
 Capability(Self,World,Context)
 $$
 
@@ -574,8 +570,7 @@ for different Structural Selves.
 The previous argument leads directly to:
 
 $$
-\mathcal{U}
-=
+\mathcal{U} =
 \mathcal{U}(Self,World,Context)
 $$
 

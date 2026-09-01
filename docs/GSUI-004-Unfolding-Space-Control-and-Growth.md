@@ -708,8 +708,7 @@ If a successful Delta adds new capability, then future possibility may expand.
 Suppose:
 
 $$
-S_{t+1}
-=
+S_{t+1} =
 S_t+\Delta_{new}
 $$
 
@@ -1323,8 +1322,7 @@ The key governance object is not merely source text.
 It is the consequential structural Delta:
 
 $$
-CG_{t+1}
-=
+CG_{t+1} =
 CG_t
 \pm
 \Delta CG
@@ -1404,8 +1402,7 @@ After authorized unfolding reaches the world, the system receives feedback.
 Let:
 
 $$
-F_t
-=
+F_t =
 Observe(
 Consequence(S_t,\Delta_t)
 )
@@ -1486,8 +1483,7 @@ A useful GSUI definition is:
 Formally:
 
 $$
-S^{core}_{t+1}
-=
+S^{core}_{t+1} =
 G(
 S^{core}_{t},
 \Delta_t,
@@ -1820,8 +1816,7 @@ Thus:
 A more disciplined definition is:
 
 $$
-Growth
-=
+Growth =
 Retained\ Delta
 +
 Relevant\ Continuity
@@ -2125,8 +2120,7 @@ A common notion of AI growth focuses almost entirely on capability.
 GSUI suggests that healthy growth may need at least two dimensions:
 
 $$
-Growth
-=
+Growth =
 CapabilityGrowth
 +
 ControlGrowth

@@ -17,8 +17,7 @@
 A more general runtime form is:
 
 $$
-S_{t+1}
-=
+S_{t+1} =
 U(S_t,\Delta_t,C_t,T_t,P_t,I_t)
 $$
 
@@ -646,8 +645,7 @@ But action-oriented intelligence needs more.
 A useful operational formulation is:
 
 $$
-WM
-=
+WM =
 WM(
 World
 \mid
@@ -717,8 +715,7 @@ Unfolding Space asks:
 A useful expression is:
 
 $$
-\mathcal{U}
-=
+\mathcal{U} =
 \mathcal{U}(Self,World,Context)
 $$
 

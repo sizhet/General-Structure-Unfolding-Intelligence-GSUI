@@ -325,8 +325,7 @@ The pattern is intended as an analytical map.
 The compact form is:
 
 $$
-S_{t+1}
-=
+S_{t+1} =
 U(
 S_t,
 \Delta_t,
@@ -348,8 +347,7 @@ $$
 A candidate set may be:
 
 $$
-\mathcal{D}_t
-=
+\mathcal{D}_t =
 \{
 \Delta_1,\Delta_2,\ldots,\Delta_n
 \}
@@ -358,8 +356,7 @@ $$
 with selection:
 
 $$
-\Delta^*
-=
+\Delta^* =
 Select(
 \mathcal{D}_t
 \mid
@@ -370,8 +367,7 @@ $$
 and subsequent transformation:
 
 $$
-S_{t+1}
-=
+S_{t+1} =
 U(S_t,\Delta^*)
 $$
 

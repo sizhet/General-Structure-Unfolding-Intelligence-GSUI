@@ -980,8 +980,7 @@ persistent yet evolving Structural Self.
 Structural Self and machine-native cognition should never be illustrated in ways implying:
 
 ```text
-greater autonomy
-=
+greater autonomy =
 absence of control.
 ```
 

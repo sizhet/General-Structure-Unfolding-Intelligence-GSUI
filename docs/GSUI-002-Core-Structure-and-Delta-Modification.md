@@ -621,8 +621,7 @@ $$
 where:
 
 $$
-\Delta^*
-=
+\Delta^* =
 Select(\mathcal{D}_{candidate})
 $$
 
@@ -1054,8 +1053,7 @@ form a candidate trajectory.
 Then:
 
 $$
-S_n
-=
+S_n =
 U_n(
 ...
 U_2(
@@ -1171,8 +1169,7 @@ Does implementation match the planned graph?
 A selected modification produces:
 
 $$
-CG_{t+1}
-=
+CG_{t+1} =
 CG_t
 \pm
 \Delta CG^*
@@ -1335,8 +1332,7 @@ represent feedback.
 Then:
 
 $$
-F_t
-=
+F_t =
 Observe(
 Result(S_t,\Delta_t)
 )
@@ -1394,8 +1390,7 @@ represent incorporation into persistent structure.
 Then:
 
 $$
-S^{core}_{t+1}
-=
+S^{core}_{t+1} =
 S^{core}_t
 \pm
 Promote(\Delta_t)
@@ -1593,8 +1588,7 @@ If this succeeds, GSUI may provide not only a descriptive framework but also a c
 Combining the elements introduced so far, a more complete unfolding expression is:
 
 $$
-S_{t+1}
-=
+S_{t+1} =
 U(
 S_t,
 \Delta_t,
@@ -1634,16 +1628,14 @@ $$
 followed by feedback:
 
 $$
-F_t
-=
+F_t =
 Observe(S_{t+1},World_{t+1})
 $$
 
 and possible structural promotion:
 
 $$
-S^{core}_{t+1}
-=
+S^{core}_{t+1} =
 Grow(
 S^{core}_t,\Delta_t,F_t
 )
@@ -1915,8 +1907,7 @@ The minimal GSUI structural form remains:
 The operational form is:
 
 $$
-S_{t+1}
-=
+S_{t+1} =
 U(
 S_t,
 \Delta_t,

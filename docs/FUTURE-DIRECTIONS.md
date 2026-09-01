@@ -72,8 +72,7 @@ The long-term objective would be an **Unfolding Primitive Algebra**.
 A possible compositional form is:
 
 $$
-U
-=
+U =
 u_n\circ u_{n-1}\circ ... \circ u_1
 $$
 
