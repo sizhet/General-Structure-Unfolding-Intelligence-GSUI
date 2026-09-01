@@ -1330,7 +1330,7 @@ Possible
 → Certified
 ```
 
-### Fig-005 — Structural Self as the Reference Frame of Unfolding
+### Fig-006 — Structural Self as the Reference Frame of Unfolding
 
 Structural Self, world-model meaning, continuity, capability, Delta, and future Unfolding Space.
 
@@ -1520,7 +1520,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │   ├── Fig-002-Core-Structure-Delta-Modification.png
 │   ├── Fig-003-Unfolding-Intelligence-Across-Domains.png
 │   ├── Fig-004-Unfolding-Space-and-Control-Plane.png
-│   └── Fig-005-Structural-Self-as-Unfolding-Reference-Frame.png
+│   └── Fig-006-Structural-Self-as-Unfolding-Reference-Frame.png
 │
 ├── CITATION.cff
 ├── .zenodo.json

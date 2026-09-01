@@ -581,9 +581,9 @@ Best paired with:
 
 ---
 
-## Fig-005
+## Fig-006
 
-### `figures/Fig-005-Structural-Self-as-Unfolding-Reference-Frame.png`
+### `figures/Fig-006-Structural-Self-as-Unfolding-Reference-Frame.png`
 
 **Structural Self as the Reference Frame of Unfolding**
 
@@ -967,7 +967,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │   ├── Fig-002-Core-Structure-Delta-Modification.png
 │   ├── Fig-003-Unfolding-Intelligence-Across-Domains.png
 │   ├── Fig-004-Unfolding-Space-and-Control-Plane.png
-│   └── Fig-005-Structural-Self-as-Unfolding-Reference-Frame.png
+│   └── Fig-006-Structural-Self-as-Unfolding-Reference-Frame.png
 │
 ├── CITATION.cff
 ├── .zenodo.json

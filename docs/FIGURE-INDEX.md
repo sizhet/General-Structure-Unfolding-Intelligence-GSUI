@@ -52,7 +52,7 @@ The figures should complement the text rather than replace formal definitions.
 | Fig-002 | Stable Structure and Variable Content    | GSUI-001 / GSUI-002          | Explain Core vs runtime variation |
 | Fig-003 | Hierarchical Structural Organization     | GSUI-003 / GSUI-004          | Explain layered structure         |
 | Fig-004 | Self as Reference Frame                  | GSUI-005                     | Introduce self-relative unfolding |
-| Fig-005 | Structural Self and Continuous Unfolding | GSUI-005 / FUTURE-DIRECTIONS | Long-horizon Structural Self      |
+| Fig-006 | Structural Self and Continuous Unfolding | GSUI-005 / FUTURE-DIRECTIONS | Long-horizon Structural Self      |
 
 ---
 
@@ -506,11 +506,11 @@ This placement prevents readers from interpreting the figure as a consciousness 
 
 ---
 
-# 7. Fig-005 — Structural Self and Continuous Unfolding
+# 7. Fig-006 — Structural Self and Continuous Unfolding
 
 ## Suggested Repository Filename
 
-`figures/Fig-005-Structural-Self-and-Continuous-Unfolding.png`
+`figures/Fig-006-Structural-Self-and-Continuous-Unfolding.png`
 
 ## Visual Title
 
@@ -606,7 +606,7 @@ or:
 
 ## Recommended Caption
 
-> **Fig-005 — Structural Self and Continuous Unfolding.**
+> **Fig-006 — Structural Self and Continuous Unfolding.**
 > Structural Self can be viewed as a persistent architecture whose capabilities and expressions change over time while identity-critical structure or invariants preserve continuity. The model is structural rather than necessarily psychological.
 
 ---
@@ -729,7 +729,7 @@ Fig-001
 Fig-004
 → intuitive Self-relative interpretation
 
-Fig-005
+Fig-006
 → continuous Structural Self
 ```
 
@@ -752,7 +752,7 @@ Self–World–Unfolding
         ↓
 Continuity and Growth
         ↓
-Fig-005
+Fig-006
 ```
 
 This is the richest visual paper in the foundational series.
@@ -848,7 +848,7 @@ SELF AS REFERENCE FRAME
 Capability and possibility become self-relative
         ↓
 
-Fig-005
+Fig-006
 STRUCTURAL SELF
         ↓
 Continuity can persist across repeated unfolding and growth
@@ -1032,7 +1032,7 @@ figures/
 │
 ├── Fig-004-Self-as-Unfolding-Reference-Frame.png
 │
-└── Fig-005-Structural-Self-and-Continuous-Unfolding.png
+└── Fig-006-Structural-Self-and-Continuous-Unfolding.png
 ```
 
 These filenames describe the actual visual themes directly and remain suitable for future repository navigation.
@@ -1048,7 +1048,7 @@ These filenames describe the actual visual themes directly and remain suitable f
 | Fig-002 |        |     ★    |     ○    |          |          |          |        |
 | Fig-003 |        |          |          |     ★    |     ○    |          |    ○   |
 | Fig-004 |        |          |          |          |          |     ★    |    ○   |
-| Fig-005 |        |          |          |          |          |     ★    |    ★   |
+| Fig-006 |        |          |          |          |          |     ★    |    ★   |
 
 Legend:
 
@@ -1077,7 +1077,7 @@ Fig-003
 Fig-004
 → Possibility becomes meaningful relative to a Self.
 
-Fig-005
+Fig-006
 → Structural Self preserves continuity while unfolding continues.
 ```
 
