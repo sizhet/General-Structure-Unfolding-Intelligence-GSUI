@@ -50,7 +50,7 @@ The figures should complement the text rather than replace formal definitions.
 | Fig-000 | Structure Precedes Content               | README / GSUI-001            | Repository-level conceptual entry |
 | Fig-001 | Reference Frame of Unfolding             | GSUI-002 / GSUI-005          | Explain Delta relativity          |
 | Fig-002 | Stable Structure and Variable Content    | GSUI-001 / GSUI-002          | Explain Core vs runtime variation |
-| Fig-003 | Hierarchical Structural Organization     | GSUI-003 / GSUI-004          | Explain layered structure         |
+| Fig-004 | Hierarchical Structural Organization     | GSUI-003 / GSUI-004          | Explain layered structure         |
 | Fig-005 | Self as Reference Frame                  | GSUI-005                     | Introduce self-relative unfolding |
 | Fig-006 | Structural Self and Continuous Unfolding | GSUI-005 / FUTURE-DIRECTIONS | Long-horizon Structural Self      |
 
@@ -331,11 +331,11 @@ Runtime State
 
 ---
 
-# 5. Fig-003 — Hierarchical Structure
+# 5. Fig-004 — Hierarchical Structure
 
 ## Suggested Repository Filename
 
-`figures/Fig-003-Hierarchical-Structural-Unfolding.png`
+`figures/Fig-004-Hierarchical-Structural-Unfolding.png`
 
 ## Visual Title
 
@@ -410,7 +410,7 @@ Insert near the discussion of growth changing higher-order structural organizati
 
 ## Recommended Caption
 
-> **Fig-003 — Hierarchical Structural Organization.**
+> **Fig-004 — Hierarchical Structural Organization.**
 > Intelligent structure may be layered, with higher-order expression supported by lower-order persistent organization. Unfolding can therefore occur at multiple levels, and a structure that is variable at one level may function as Core at another.
 
 ---
@@ -679,7 +679,7 @@ Recommended figure:
 
 ```text
 Primary:
-Fig-003 — Hierarchical Structural Organization
+Fig-004 — Hierarchical Structural Organization
 ```
 
 Suggested placement:
@@ -689,7 +689,7 @@ Cross-Domain Mapping
    ↓
 Shared Structural Form
    ↓
-Fig-003
+Fig-004
    ↓
 Structural Comparability
    ↓
@@ -704,7 +704,7 @@ Recommended figure:
 
 ```text
 Secondary:
-Fig-003 — Hierarchical Structural Organization
+Fig-004 — Hierarchical Structural Organization
 ```
 
 It fits best in discussions of:
@@ -836,7 +836,7 @@ STABLE STRUCTURE / VARIABLE CONTENT
 Core and runtime variation can coexist
         ↓
 
-Fig-003
+Fig-004
 HIERARCHICAL STRUCTURE
         ↓
 Structure exists at multiple scales
@@ -1028,7 +1028,7 @@ figures/
 │
 ├── Fig-002-Stable-Structure-Variable-Content.png
 │
-├── Fig-003-Hierarchical-Structural-Unfolding.png
+├── Fig-004-Hierarchical-Structural-Unfolding.png
 │
 ├── Fig-005-Self-as-Unfolding-Reference-Frame.png
 │
@@ -1046,7 +1046,7 @@ These filenames describe the actual visual themes directly and remain suitable f
 | Fig-000 |    ★   |     ★    |          |          |          |          |        |
 | Fig-001 |    ○   |          |     ★    |          |          |     ★    |        |
 | Fig-002 |        |     ★    |     ○    |          |          |          |        |
-| Fig-003 |        |          |          |     ★    |     ○    |          |    ○   |
+| Fig-004 |        |          |          |     ★    |     ○    |          |    ○   |
 | Fig-005 |        |          |          |          |          |     ★    |    ○   |
 | Fig-006 |        |          |          |          |          |     ★    |    ★   |
 
@@ -1071,7 +1071,7 @@ Fig-001
 Fig-002
 → Persistent Core and variable runtime state coexist.
 
-Fig-003
+Fig-004
 → Unfolding can occur across structural levels.
 
 Fig-005

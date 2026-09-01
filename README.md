@@ -1315,7 +1315,7 @@ The canonical:
 
 form.
 
-### Fig-003 — Unfolding Intelligence Across Domains
+### Fig-004 — Unfolding Intelligence Across Domains
 
 Cross-domain comparison of LLM, CallingGraph, Tree, CCC, ANN, Generative AI, and autonomous systems.
 
@@ -1518,7 +1518,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │   ├── Fig-000-GSUI-Grand-Map.png
 │   ├── Fig-001-Folding-Structure-Unfolding-Cycle.png
 │   ├── Fig-002-Core-Structure-Delta-Modification.png
-│   ├── Fig-003-Unfolding-Intelligence-Across-Domains.png
+│   ├── Fig-004-Unfolding-Intelligence-Across-Domains.png
 │   ├── Fig-005-Unfolding-Space-and-Control-Plane.png
 │   └── Fig-006-Structural-Self-as-Unfolding-Reference-Frame.png
 │

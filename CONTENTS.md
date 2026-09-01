@@ -524,9 +524,9 @@ Best paired with:
 
 ---
 
-## Fig-003
+## Fig-004
 
-### `figures/Fig-003-Unfolding-Intelligence-Across-Domains.png`
+### `figures/Fig-004-Unfolding-Intelligence-Across-Domains.png`
 
 **Unfolding Intelligence Across Domains**
 
@@ -965,7 +965,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │   ├── Fig-000-GSUI-Grand-Map.png
 │   ├── Fig-001-Folding-Structure-Unfolding-Cycle.png
 │   ├── Fig-002-Core-Structure-Delta-Modification.png
-│   ├── Fig-003-Unfolding-Intelligence-Across-Domains.png
+│   ├── Fig-004-Unfolding-Intelligence-Across-Domains.png
 │   ├── Fig-005-Unfolding-Space-and-Control-Plane.png
 │   └── Fig-006-Structural-Self-as-Unfolding-Reference-Frame.png
 │
