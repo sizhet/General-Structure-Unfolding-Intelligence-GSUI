@@ -1,0 +1,52 @@
+{
+  "title": "CallingGraph Unfolding for AI Coding — From Design-Time Structural Planning to Runtime Validation and Certification",
+  "upload_type": "software",
+  "publication_date": "2026-09-01",
+  "description": "CallingGraph Unfolding for AI Coding (CGU) studies how a folded functional CallingGraph can be selectively unfolded into localized structural possibilities for design-time planning, AI coding execution, runtime validation, and evidence-bounded certification. CGU v1.0 focuses strictly on Function-only CallingGraph structure. It introduces CallingGraph Folding, Trigger-Localized Unfolding, Design-Time CallingGraphs, Structural Wargaming, Realized CallingGraphs, the Unfolding Gap, Differential Unfolding, confidence-based certification, and the CallingGraph as an AI Coding Structural Control Plane. The framework moves CallingGraph from a passive post-coding analysis artifact toward an operational structural object participating across the lifecycle: Design → Unfold → Simulate → Dispatch → Code → Fold → Compare → Certify → Learn.",
+  "creators": [
+    {
+      "name": "Tan, Sizhe"
+    }
+  ],
+  "access_right": "open",
+  "license": "Apache-2.0",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "CallingGraph",
+    "CallingGraph Unfolding",
+    "CGU",
+    "Structural AI",
+    "Structural Intelligence",
+    "AI Coding",
+    "Autonomous Software Engineering",
+    "Design-Time CallingGraph",
+    "Runtime CallingGraph",
+    "Realized CallingGraph",
+    "Structural Folding",
+    "Structural Unfolding",
+    "Trigger-Localized Unfolding",
+    "Structural Wargaming",
+    "Differential Unfolding",
+    "Unfolding Gap",
+    "Structural Validation",
+    "AI Coding Certification",
+    "Evidence-Bounded Certification",
+    "Certification Confidence",
+    "Structural Control Plane",
+    "AI Coding Control Plane",
+    "Multi-Agent Coding",
+    "Structural Planning",
+    "Structural Localization",
+    "Structural Provenance",
+    "Structural Learning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "CGU v1.0 deliberately restricts its formal scope to Function-only CallingGraph structure. Condition/Context, Runtime State, Policy/Projection, and richer Calling Structural Space models are reserved for future research."
+}

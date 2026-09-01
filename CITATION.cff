@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata in this file."
+
+title: "CallingGraph Unfolding for AI Coding — From Design-Time Structural Planning to Runtime Validation and Certification"
+
+type: software
+
+authors:
+  - family-names: "Tan"
+    given-names: "Sizhe"
+
+version: "1.0.0"
+
+date-released: "2026-09-01"
+
+repository-code: "https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding"
+
+url: "https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding"
+
+abstract: >
+  CallingGraph Unfolding for AI Coding (CGU) studies how a folded
+  functional CallingGraph can be selectively unfolded into localized
+  structural possibilities for design-time planning, AI coding execution,
+  runtime validation, and evidence-bounded certification.
+
+  CGU v1.0 focuses strictly on Function-only CallingGraph structure.
+  It introduces CallingGraph Folding, Trigger-Localized Unfolding,
+  Design-Time CallingGraphs, Structural Wargaming, Realized CallingGraphs,
+  the Unfolding Gap, Differential Unfolding, confidence-based certification,
+  and the CallingGraph as an AI Coding Structural Control Plane.
+
+  The framework moves CallingGraph from a passive post-coding analysis
+  artifact toward an operational structural object that can participate
+  across the software lifecycle:
+
+  Design -> Unfold -> Simulate -> Dispatch -> Code -> Fold ->
+  Compare -> Certify -> Learn.
+
+keywords:
+  - CallingGraph
+  - CallingGraph Unfolding
+  - CGU
+  - Structural AI
+  - Structural Intelligence
+  - AI Coding
+  - Autonomous Software Engineering
+  - Design-Time CallingGraph
+  - Runtime CallingGraph
+  - Realized CallingGraph
+  - Structural Folding
+  - Structural Unfolding
+  - Trigger-Localized Unfolding
+  - Structural Wargaming
+  - Differential Unfolding
+  - Unfolding Gap
+  - Structural Validation
+  - AI Coding Certification
+  - Evidence-Bounded Certification
+  - Structural Control Plane
+  - Multi-Agent Coding
+  - Structural Planning
+  - Structural Learning
+
+license: "Apache-2.0"
+
+preferred-citation:
+  type: software
+  title: "CallingGraph Unfolding for AI Coding — From Design-Time Structural Planning to Runtime Validation and Certification"
+  authors:
+    - family-names: "Tan"
+      given-names: "Sizhe"
+  version: "1.0.0"
+  date-released: "2026-09-01"
+  repository-code: "https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding"
+  url: "https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding"
