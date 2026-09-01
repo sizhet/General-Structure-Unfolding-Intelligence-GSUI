@@ -49,7 +49,7 @@ The figures should complement the text rather than replace formal definitions.
 | ------- | ---------------------------------------- | ---------------------------- | --------------------------------- |
 | Fig-000 | Structure Precedes Content               | README / GSUI-001            | Repository-level conceptual entry |
 | Fig-001 | Reference Frame of Unfolding             | GSUI-002 / GSUI-005          | Explain Delta relativity          |
-| Fig-002 | Stable Structure and Variable Content    | GSUI-001 / GSUI-002          | Explain Core vs runtime variation |
+| Fig-003 | Stable Structure and Variable Content    | GSUI-001 / GSUI-002          | Explain Core vs runtime variation |
 | Fig-004 | Hierarchical Structural Organization     | GSUI-003 / GSUI-004          | Explain layered structure         |
 | Fig-005 | Self as Reference Frame                  | GSUI-005                     | Introduce self-relative unfolding |
 | Fig-006 | Structural Self and Continuous Unfolding | GSUI-005 / FUTURE-DIRECTIONS | Long-horizon Structural Self      |
@@ -245,11 +245,11 @@ Insert near the beginning, immediately after the canonical statement:
 
 ---
 
-# 4. Fig-002 — Structure Is Stable; Content Is Fluid
+# 4. Fig-003 — Structure Is Stable; Content Is Fluid
 
 ## Suggested Repository Filename
 
-`figures/Fig-002-Stable-Structure-Variable-Content.png`
+`figures/Fig-003-Stable-Structure-Variable-Content.png`
 
 ## Visual Title
 
@@ -326,7 +326,7 @@ Runtime State
 
 ## Recommended Caption
 
-> **Fig-002 — Stable Structure and Variable Content.**
+> **Fig-003 — Stable Structure and Variable Content.**
 > A relatively persistent structural boundary can support many changing runtime states. Stability is scale-relative: what functions as Core during one unfolding episode may itself become modifiable during Structural Growth.
 
 ---
@@ -622,7 +622,7 @@ Primary:
 Fig-000 — Structure Precedes Content
 
 Secondary:
-Fig-002 — Stable Structure and Variable Content
+Fig-003 — Stable Structure and Variable Content
 ```
 
 ### Placement Order
@@ -636,7 +636,7 @@ Fig-000
    ↓
 Structure
    ↓
-Fig-002
+Fig-003
    ↓
 Unfolding
    ↓
@@ -654,7 +654,7 @@ Primary:
 Fig-001 — Reference Frame of Unfolding
 
 Secondary:
-Fig-002 — Stable Structure and Variable Content
+Fig-003 — Stable Structure and Variable Content
 ```
 
 ### Placement Order
@@ -668,7 +668,7 @@ Fig-001
    ↓
 Core / Runtime distinction
    ↓
-Fig-002
+Fig-003
 ```
 
 ---
@@ -830,7 +830,7 @@ REFERENCE FRAME
 Change requires something relative to which change is measured
         ↓
 
-Fig-002
+Fig-003
 STABLE STRUCTURE / VARIABLE CONTENT
         ↓
 Core and runtime variation can coexist
@@ -1026,7 +1026,7 @@ figures/
 │
 ├── Fig-001-Reference-Frame-of-Unfolding.png
 │
-├── Fig-002-Stable-Structure-Variable-Content.png
+├── Fig-003-Stable-Structure-Variable-Content.png
 │
 ├── Fig-004-Hierarchical-Structural-Unfolding.png
 │
@@ -1045,7 +1045,7 @@ These filenames describe the actual visual themes directly and remain suitable f
 | ------- | :----: | :------: | :------: | :------: | :------: | :------: | :----: |
 | Fig-000 |    ★   |     ★    |          |          |          |          |        |
 | Fig-001 |    ○   |          |     ★    |          |          |     ★    |        |
-| Fig-002 |        |     ★    |     ○    |          |          |          |        |
+| Fig-003 |        |     ★    |     ○    |          |          |          |        |
 | Fig-004 |        |          |          |     ★    |     ○    |          |    ○   |
 | Fig-005 |        |          |          |          |          |     ★    |    ○   |
 | Fig-006 |        |          |          |          |          |     ★    |    ★   |
@@ -1068,7 +1068,7 @@ Fig-000
 Fig-001
 → Delta requires a reference frame.
 
-Fig-002
+Fig-003
 → Persistent Core and variable runtime state coexist.
 
 Fig-004

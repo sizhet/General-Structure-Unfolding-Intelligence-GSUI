@@ -1116,7 +1116,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 ├── figures/
 │   ├── Fig-000-GSUI-Grand-Map.png
 │   ├── Fig-001-Folding-Structure-Unfolding-Cycle.png
-│   ├── Fig-002-Core-Structure-Delta-Modification.png
+│   ├── Fig-003-Core-Structure-Delta-Modification.png
 │   ├── Fig-004-Unfolding-Intelligence-Across-Domains.png
 │   ├── Fig-005-Unfolding-Space-and-Control-Plane.png
 │   └── Fig-006-Structural-Self-as-Unfolding-Reference-Frame.png
