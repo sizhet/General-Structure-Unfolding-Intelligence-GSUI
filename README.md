@@ -913,8 +913,7 @@ A coding AI may internally reason through structures that humans cannot fully in
 But a consequential software modification can still be represented as:
 
 $$
-CG_{t+1}
-=
+CG_{t+1} =
 CG_t
 \pm
 \Delta CG
