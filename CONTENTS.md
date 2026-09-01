@@ -322,7 +322,7 @@ $$
 
 ### Fig-000 — CallingGraph Unfolding Grand Map
 
-[`docs/figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png`](docs/figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
+[`docs/figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png`](figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
 
 Shows the full CGU lifecycle:
 
@@ -352,7 +352,7 @@ Learning
 
 ### Fig-001 — Folding and Unfolding
 
-[`docs/figures/Fig-001-Folding-and-Unfolding.png`](docs/figures/Fig-001-Folding-and-Unfolding.png)
+[`docs/figures/Fig-001-Folding-and-Unfolding.png`](figures/Fig-001-Folding-and-Unfolding.png)
 
 Illustrates:
 
@@ -378,7 +378,7 @@ $$
 
 ### Fig-002 — Two-Phase Search to Trigger Unfolding
 
-[`docs/figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png`](docs/figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
+[`docs/figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png`](figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
 
 Shows:
 
@@ -394,7 +394,7 @@ $$
 
 ### Fig-003 — Design-Time CG Wargaming
 
-[`docs/figures/Fig-003-Design-Time-CG-Wargaming.png`](docs/figures/Fig-003-Design-Time-CG-Wargaming.png)
+[`docs/figures/Fig-003-Design-Time-CG-Wargaming.png`](figures/Fig-003-Design-Time-CG-Wargaming.png)
 
 Shows:
 
@@ -416,7 +416,7 @@ Agent Dispatch
 
 ### Fig-004 — Design-Time CG vs Runtime CG
 
-[`docs/figures/Fig-004-Design-Time-vs-Runtime-CG.png`](docs/figures/Fig-004-Design-Time-vs-Runtime-CG.png)
+[`docs/figures/Fig-004-Design-Time-vs-Runtime-CG.png`](figures/Fig-004-Design-Time-vs-Runtime-CG.png)
 
 Illustrates:
 
@@ -442,7 +442,7 @@ $$
 
 ### Fig-005 — The Unfolding Gap
 
-[`docs/figures/Fig-005-Unfolding-Gap.png`](docs/figures/Fig-005-Unfolding-Gap.png)
+[`docs/figures/Fig-005-Unfolding-Gap.png`](figures/Fig-005-Unfolding-Gap.png)
 
 Shows why similar folded structures can unfold differently:
 
@@ -464,7 +464,7 @@ $$
 
 ### Fig-006 — AI Coding Campaign Loop
 
-[`docs/figures/Fig-006-AI-Coding-Campaign-Loop.png`](docs/figures/Fig-006-AI-Coding-Campaign-Loop.png)
+[`docs/figures/Fig-006-AI-Coding-Campaign-Loop.png`](figures/Fig-006-AI-Coding-Campaign-Loop.png)
 
 Shows the complete iterative loop:
 
