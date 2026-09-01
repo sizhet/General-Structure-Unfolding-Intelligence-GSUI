@@ -48,7 +48,7 @@ The figures should complement the text rather than replace formal definitions.
 | Figure  | Main Theme                               | Primary Paper                | Primary Function                  |
 | ------- | ---------------------------------------- | ---------------------------- | --------------------------------- |
 | Fig-000 | Structure Precedes Content               | README / GSUI-001            | Repository-level conceptual entry |
-| Fig-001 | Reference Frame of Unfolding             | GSUI-002 / GSUI-005          | Explain Delta relativity          |
+| Fig-002 | Reference Frame of Unfolding             | GSUI-002 / GSUI-005          | Explain Delta relativity          |
 | Fig-003 | Stable Structure and Variable Content    | GSUI-001 / GSUI-002          | Explain Core vs runtime variation |
 | Fig-004 | Hierarchical Structural Organization     | GSUI-003 / GSUI-004          | Explain layered structure         |
 | Fig-005 | Self as Reference Frame                  | GSUI-005                     | Introduce self-relative unfolding |
@@ -153,11 +153,11 @@ This is the strongest paper-level placement.
 
 ---
 
-# 3. Fig-001 — Reference Frame of Unfolding
+# 3. Fig-002 — Reference Frame of Unfolding
 
 ## Suggested Repository Filename
 
-`figures/Fig-001-Reference-Frame-of-Unfolding.png`
+`figures/Fig-002-Reference-Frame-of-Unfolding.png`
 
 ## Visual Title
 
@@ -240,7 +240,7 @@ Insert near the beginning, immediately after the canonical statement:
 
 ## Recommended Caption
 
-> **Fig-001 — Reference Frame of Unfolding.**
+> **Fig-002 — Reference Frame of Unfolding.**
 > Structural change is meaningful only relative to a reference structure. In GSUI, local Delta may be measured relative to Core Structure, while persistent continuity may be defined relative to Structural Self.
 
 ---
@@ -651,7 +651,7 @@ Recommended figures:
 
 ```text
 Primary:
-Fig-001 — Reference Frame of Unfolding
+Fig-002 — Reference Frame of Unfolding
 
 Secondary:
 Fig-003 — Stable Structure and Variable Content
@@ -664,7 +664,7 @@ Core + Delta
    ↓
 S' = S ± Δ
    ↓
-Fig-001
+Fig-002
    ↓
 Core / Runtime distinction
    ↓
@@ -723,7 +723,7 @@ and Meta-Unfolding.
 Recommended figures:
 
 ```text
-Fig-001
+Fig-002
 → reference frame
 
 Fig-005
@@ -738,7 +738,7 @@ Fig-006
 ```text
 Why Delta Needs a Reference
         ↓
-Fig-001
+Fig-002
         ↓
 Definition of Structural Self
         ↓
@@ -780,7 +780,7 @@ Main GSUI architecture
 Optionally add:
 
 ```text
-Fig-001
+Fig-002
 ```
 
 near the Structural Self section.
@@ -824,7 +824,7 @@ STRUCTURE PRECEDES CONTENT
 Persistent structure exists beneath runtime expression
         ↓
 
-Fig-001
+Fig-002
 REFERENCE FRAME
         ↓
 Change requires something relative to which change is measured
@@ -995,9 +995,9 @@ GSUI maintains:
 Example:
 
 ```markdown
-![Fig-001 — Reference Frame of Unfolding](../figures/Fig-001-Reference-Frame-of-Unfolding.png)
+![Fig-002 — Reference Frame of Unfolding](../figures/Fig-002-Reference-Frame-of-Unfolding.png)
 
-**Fig-001 — Reference Frame of Unfolding.**  
+**Fig-002 — Reference Frame of Unfolding.**  
 Structural change is meaningful only relative to a reference structure. In GSUI, local Delta may be measured relative to Core Structure, while persistent continuity may be defined relative to Structural Self.
 ```
 
@@ -1024,7 +1024,7 @@ figures/
 │
 ├── Fig-000-Structure-Precedes-Content.png
 │
-├── Fig-001-Reference-Frame-of-Unfolding.png
+├── Fig-002-Reference-Frame-of-Unfolding.png
 │
 ├── Fig-003-Stable-Structure-Variable-Content.png
 │
@@ -1044,7 +1044,7 @@ These filenames describe the actual visual themes directly and remain suitable f
 | Figure  | README | GSUI-001 | GSUI-002 | GSUI-003 | GSUI-004 | GSUI-005 | FUTURE |
 | ------- | :----: | :------: | :------: | :------: | :------: | :------: | :----: |
 | Fig-000 |    ★   |     ★    |          |          |          |          |        |
-| Fig-001 |    ○   |          |     ★    |          |          |     ★    |        |
+| Fig-002 |    ○   |          |     ★    |          |          |     ★    |        |
 | Fig-003 |        |     ★    |     ○    |          |          |          |        |
 | Fig-004 |        |          |          |     ★    |     ○    |          |    ○   |
 | Fig-005 |        |          |          |          |          |     ★    |    ○   |
@@ -1065,7 +1065,7 @@ Legend:
 Fig-000
 → Structure supports unfolding.
 
-Fig-001
+Fig-002
 → Delta requires a reference frame.
 
 Fig-003

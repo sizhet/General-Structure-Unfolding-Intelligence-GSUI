@@ -473,9 +473,9 @@ Best used as:
 
 ---
 
-## Fig-001
+## Fig-002
 
-### `figures/Fig-001-Folding-Structure-Unfolding-Cycle.png`
+### `figures/Fig-002-Folding-Structure-Unfolding-Cycle.png`
 
 **Folding–Structure–Unfolding Cycle**
 
@@ -963,7 +963,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │
 ├── figures/
 │   ├── Fig-000-GSUI-Grand-Map.png
-│   ├── Fig-001-Folding-Structure-Unfolding-Cycle.png
+│   ├── Fig-002-Folding-Structure-Unfolding-Cycle.png
 │   ├── Fig-003-Core-Structure-Delta-Modification.png
 │   ├── Fig-004-Unfolding-Intelligence-Across-Domains.png
 │   ├── Fig-005-Unfolding-Space-and-Control-Plane.png
