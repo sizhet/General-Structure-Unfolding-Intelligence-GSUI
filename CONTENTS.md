@@ -1,1008 +1,1044 @@
 # CONTENTS
 
-## CallingGraph Unfolding for AI Coding
+## General Structure Unfolding Intelligence (GSUI)
 
-**Project Short Name:** CGU — CallingGraph Unfolding
-**Version:** v1.0
-**Scope:** Function-Only CallingGraph
+**From Core Structure and Delta Modification to a General Paradigm of Intelligence**
 
 ---
 
-## 1. Project Entry Points
+## Repository Navigation
 
-* [`README.md`](README.md)
-  Main project overview, research positioning, six-paper roadmap, figure pack, and core concepts.
+This repository is organized around five foundational papers, four supporting documents, and six canonical figures.
 
-* [`START-HERE.md`](START-HERE.md)
-  10–15 minute guided introduction to the CGU framework.
+The shortest conceptual route is:
 
-* [`CONTENTS.md`](CONTENTS.md)
-  Repository structure and document navigation.
-
----
-
-## 2. Core Research Papers
-
-### CGU-001 — CallingGraph Unfolding
-
-[`docs/CGU-001-CallingGraph-Unfolding.md`](docs/CGU-001-CallingGraph-Unfolding.md)
-
-**Subtitle:**
-*From Folded Program Structure to Localized Functional Possibility*
-
-Introduces the foundational CGU model:
-
-$$
-Program
-\xrightarrow{Folding}
-CallingGraph
-\xrightarrow{Localized\ Unfolding}
-FunctionalPossibility
-$$
-
-Key concepts:
-
-* CallingGraph as structural Folding
-* CallingGraph Unfolding
-* Trigger-Localized Unfolding
-* Hotspot Unfolding
-* CallingGraph Unfolding Space
-* Function-only scope
-
-Core principle:
-
-$$
-\boxed{
-Unfolding
-\neq
-Inverse(Folding)
-}
-$$
+```text id="ct0001"
+Folding
+  ↓
+Core + Delta
+  ↓
+General Unfolding
+  ↓
+Unfolding Space / Control / Growth
+  ↓
+Structural Self
+```
 
 ---
 
-### CGU-002 — From Two-Phase Search to Trigger-Localized Unfolding
+# 1. Entry Documents
 
-[`docs/CGU-002-Two-Phase-Search-to-Trigger-Localized-Unfolding.md`](docs/CGU-002-Two-Phase-Search-to-Trigger-Localized-Unfolding.md)
+## `README.md`
 
-Develops the structural lineage:
+**Repository overview and Grand Map**
 
-$$
-\boxed{
-Full\text{-}Universe\ Search
-\rightarrow
-Two\text{-}Phase\ Search
-\rightarrow
-Structural\ Localization
-\rightarrow
-Trigger\text{-}Localized\ Unfolding
-}
-$$
+Introduces the full GSUI landscape:
 
-Key concepts:
+* Folding and Unfolding;
+* Core Structure + Delta Modification;
+* Unfolding Space;
+* Control Plane;
+* Structural Growth;
+* Structural Self;
+* machine-native perception;
+* structural governance;
+* the five foundational papers.
 
-* Full-Universe Search
-* Candidate Space
-* Two-Phase Search
-* Explicit Universe Localization
-* Pre-Folded Structural Localization
-* Structural Hotspots
-* Localized functional expansion
+Recommended for:
 
-Core transition:
-
-$$
-\boxed{
-Explicit\ Universe\ Localization
-\rightarrow
-Pre\text{-}Folded\ Structural\ Localization
-}
-$$
+> first contact with the repository.
 
 ---
 
-### CGU-003 — Design-Time CallingGraph
+## `START-HERE.md`
 
-[`docs/CGU-003-Design-Time-CallingGraph.md`](docs/CGU-003-Design-Time-CallingGraph.md)
+**10–15 minute guided introduction**
 
-**Subtitle:**
-*Structural Wargaming for AI/ASI Coding*
+Provides the shortest structured path through GSUI.
 
-Introduces the:
+Recommended for readers who want to understand:
 
-$$
-\boxed{
-Design\text{-}Time\ CallingGraph
-}
-$$
+```text id="ct0002"
+What GSUI is
+
+Why it exists
+
+What the core equation means
+
+Why Search ≠ Unfolding
+
+Why Control matters
+
+Why Structural Self appears
+```
+
+Recommended before reading the full paper series.
+
+---
+
+# 2. Foundational Paper Series
+
+---
+
+## GSUI-001
+
+### `docs/GSUI-001-From-Folding-to-Unfolding.md`
+
+**From Folding to Unfolding**
+
+### Central Question
+
+> **Once intelligence has formed a structure, how does that structure become runtime intelligence?**
+
+### Main Topics
+
+```text id="ct0003"
+Observation
+→ Data
+→ Folding
+→ Structure
+→ Unfolding
+→ Action
+→ Feedback
+→ Growth
+```
+
+Introduces:
+
+* Folding as structure formation;
+* Unfolding as runtime realization;
+* LLM unfolding;
+* CallingGraph unfolding;
+* generation as one form of unfolding;
+* machine-native perception;
+* Structural Self as an emerging reference frame;
+* the need for structural governance.
+
+### Key Principle
+
+> **Structure formation is only one half of the intelligence cycle.**
+
+### Read This If
+
+You want to understand **why GSUI exists**.
+
+---
+
+## GSUI-002
+
+### `docs/GSUI-002-Core-Structure-and-Delta-Modification.md`
+
+**Core Structure and Delta Modification**
+
+### Central Question
+
+> **What changes, what remains, and how should the transition be represented?**
+
+### Canonical Form
+
+```text id="ct0004"
+<Core Structure> +/- <Delta Modification>
+```
 
 or:
 
 $$
-\boxed{
-DT\text{-}CG
-}
+S_{t+1}=S_t\pm\Delta_t
 $$
 
-Key concepts:
+Develops:
 
-* structural design before coding
-* DT-CG as generative structural skeleton
-* structural wargaming
-* primary and alternative plans
-* pre-coding structural simulation
-* structural segmentation
-* AI / Brain-Unit dispatch
-* bounded autonomy
-* structural provenance
+```text id="ct0005"
+Core Structure
+Delta
+Unfolding Operator
+Context
+Trigger
+Constraint
+Policy
+Invariant
+Evaluation
+Certification
+Feedback
+Structural Growth
+```
 
-Core principle:
+### Key Principle
 
-$$
-\boxed{
-Structure
-\rightarrow
-Organization
-\rightarrow
-Agents
-}
-$$
+> **Intelligence can be studied through controlled Delta relative to persistent structure.**
+
+### Read This If
+
+You want the **minimal structural language of GSUI**.
 
 ---
 
-### CGU-004 — The Unfolding Gap
+## GSUI-003
 
-[`docs/CGU-004-The-Unfolding-Gap.md`](docs/CGU-004-The-Unfolding-Gap.md)
+### `docs/GSUI-003-General-Structure-Unfolding-Intelligence.md`
 
-**Subtitle:**
-*Why CallingGraph Match Does Not Guarantee Runtime Equivalence*
+**General Structure Unfolding Intelligence**
+
+### Central Question
+
+> **Can apparently different intelligent processes share a useful structural form without being algorithmically identical?**
+
+Cross-domain examples include:
+
+```text id="ct0006"
+LLM
+CallingGraph
+Tree
+CCC
+ANN
+Generative AI
+Autonomous Driving
+Planning
+World Models
+Continual Learning
+```
+
+### Key Distinction
+
+```text id="ct0007"
+Shared Structural Form
+≠
+Algorithmic Equivalence
+```
+
+### Main Hypothesis
+
+> **A broad class of intelligent processes can be represented, analyzed, or reconstructed as constrained structural unfolding.**
+
+### Read This If
+
+You want the **general GSUI paradigm**.
+
+---
+
+## GSUI-004
+
+### `docs/GSUI-004-Unfolding-Space-Control-and-Growth.md`
+
+**Unfolding Space, Control, and Growth**
+
+### Central Question
+
+> **What can unfold next, who governs it, and how does successful unfolding change future intelligence?**
 
 Introduces:
 
 $$
-\boxed{
-\Delta_U
-}
+\mathcal{U}(S,C)
 $$
 
-the **Unfolding Gap**.
+as the **Unfolding Space**.
 
-Key concepts:
+Develops the hierarchy:
 
-* static CallingGraph match
-* structural aliasing
-* local vs global equivalence
-* missing-path gaps
-* unexpected-path gaps
-* reachability gaps
-* granularity-dependent equivalence
-* bounded unfolding
-* Open-Unfolding Problem
-
-Core relation:
-
-$$
-\boxed{
-CG_A
-\approx
-CG_B
-\not\Rightarrow
-U(CG_A,t) = U(CG_B,t)
-}
-$$
-
-and:
-
-$$
-\boxed{
-CallingGraph\ Similarity
-\neq
-Unfolding\ Equivalence
-\neq
-Runtime\ Equivalence
-}
-$$
-
----
-
-### CGU-005 — Differential Unfolding and Certification
-
-[`docs/CGU-005-Differential-Unfolding-and-Certification.md`](docs/CGU-005-Differential-Unfolding-and-Certification.md)
-
-**Subtitle:**
-*From Static CallingGraph Match to Evidence-Bounded Structural Assurance*
-
-Develops the certification framework.
-
-Key concepts:
-
-* DT-CG vs RT-CG
-* \(\Delta CG\)
-* Differential Unfolding
-* \(\Delta_U\)
-* trigger coverage
-* node / edge / path coverage
-* runtime evidence
-* structural show-stoppers
-* evidence-bounded certification
-* certification confidence
-* certification ladder C0–C5
-
-Canonical evidence equation:
-
-$$
-\boxed{
-\Delta CG
-+
-\Delta_U
-+
-Coverage
-+
-RuntimeEvidence
-+
-Criticality
-\rightarrow
-CertificationConfidence
-}
-$$
-
-Core principle:
-
-$$
-\boxed{
-\text{Certify the Evidence, Not Just the Similarity.}
-}
-$$
-
----
-
-### CGU-006 — CallingGraph as an AI Coding Control Plane
-
-[`docs/CGU-006-CallingGraph-as-AI-Coding-Control-Plane.md`](docs/CGU-006-CallingGraph-as-AI-Coding-Control-Plane.md)
-
-**Subtitle:**
-*From Structural Design and Dispatch to Validation, Certification, and Learning*
-
-Integrates the complete CGU architecture.
-
-Key concepts:
-
-* Structural AI Coding Lifecycle
-* AI Coding Control Plane
-* control plane vs execution plane
-* structural dispatch
-* localized coding
-* Folding feedback
-* Differential Unfolding
-* certification as control
-* structural repair
-* replanning
-* structural learning
-* dispatch-tree growth
-* bounded autonomy
-* structural provenance
-
-Canonical lifecycle:
-
-$$
-\boxed{
-Design
-\rightarrow
-Unfold
-\rightarrow
-Simulate
-\rightarrow
-Dispatch
-\rightarrow
-Code
-\rightarrow
-Fold
-\rightarrow
-Compare
-\rightarrow
-Certify
-\rightarrow
-Learn
-}
-$$
-
-Core paradigm shift:
-
-$$
-\boxed{
-Prompt\text{-}Centered\ Coding
-\rightarrow
-Structure\text{-}Centered\ Coding
-}
-$$
-
----
-
-## 3. Figure Pack
-
-### Fig-000 — CallingGraph Unfolding Grand Map
-
-[`docs/figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png`](figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
-
-Shows the full CGU lifecycle:
-
-```text
-Intent
-  ->
-Design-Time CG
-  ->
-Unfolding
-  ->
-Structural Wargaming
-  ->
-AI Units
-  ->
-Code
-  ->
-Realized CG
-  ->
-Differential Unfolding
-  ->
-Certification
-  ->
-Learning
+```text id="ct0008"
+Possible
+  ↓
+Reachable
+  ↓
+Allowed
+  ↓
+Preferred
+  ↓
+Selected
+  ↓
+Certified
 ```
 
----
-
-### Fig-001 — Folding and Unfolding
-
-[`docs/figures/Fig-001-Folding-and-Unfolding.png`](figures/Fig-001-Folding-and-Unfolding.png)
-
-Illustrates:
-
-$$
-Program
-\rightarrow
-CallingGraph
-\rightarrow
-LocalizedFunctionalPossibility
-$$
-
-and emphasizes:
-
-$$
-\boxed{
-Unfolding
-\neq
-Inverse(Folding)
-}
-$$
-
----
-
-### Fig-002 — Two-Phase Search to Trigger Unfolding
-
-[`docs/figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png`](figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
-
-Shows:
-
-$$
-FullSearch
-\rightarrow
-TwoPhaseSearch
-\rightarrow
-TriggerLocalizedUnfolding
-$$
-
----
-
-### Fig-003 — Design-Time CG Wargaming
-
-[`docs/figures/Fig-003-Design-Time-CG-Wargaming.png`](figures/Fig-003-Design-Time-CG-Wargaming.png)
-
-Shows:
-
-```text
-Requirement
-  ->
-DT-CG
-  ->
-Structural Simulation
-  ->
-Primary / Alternative Plans
-  ->
-Segmentation
-  ->
-Agent Dispatch
-```
-
----
-
-### Fig-004 — Design-Time CG vs Runtime CG
-
-[`docs/figures/Fig-004-Design-Time-vs-Runtime-CG.png`](figures/Fig-004-Design-Time-vs-Runtime-CG.png)
-
-Illustrates:
-
-$$
-DT\text{-}CG
-\leftrightarrow
-RT\text{-}CG
-$$
-
-with:
-
-$$
-\Delta CG
-$$
-
-and:
-
-$$
-\Delta_U
-$$
-
----
-
-### Fig-005 — The Unfolding Gap
-
-[`docs/figures/Fig-005-Unfolding-Gap.png`](figures/Fig-005-Unfolding-Gap.png)
-
-Shows why similar folded structures can unfold differently:
-
-$$
-CG_A
-\approx
-CG_B
-$$
-
-while:
-
-$$
-U(CG_A,t)
-\neq
-U(CG_B,t)
-$$
-
----
-
-### Fig-006 — AI Coding Campaign Loop
-
-[`docs/figures/Fig-006-AI-Coding-Campaign-Loop.png`](figures/Fig-006-AI-Coding-Campaign-Loop.png)
-
-Shows the complete iterative loop:
-
-```text
-Plan
- -> Unfold
- -> Dispatch
- -> Code
- -> Fold
- -> Compare
- -> Certify
- -> Learn
- -> Better Plan
-```
-
----
-
-## 4. Supporting Documentation
-
-### Figure Index
-
-[`docs/FIGURE-INDEX.md`](docs/FIGURE-INDEX.md)
-
-Detailed index of all CGU figures, their meanings, and recommended placement.
-
----
-
-### Glossary
-
-[`docs/GLOSSARY.md`](docs/GLOSSARY.md)
-
-Canonical terminology for:
-
-* Folding
-* Unfolding
-* Trigger
-* Structural Hotspot
-* DT-CG
-* RT-CG
-* \(\Delta CG\)
-* \(\Delta_U\)
-* Differential Unfolding
-* Certification Confidence
-* Structural Control Plane
-
----
-
-### Future Directions
-
-[`docs/FUTURE-DIRECTIONS.md`](docs/FUTURE-DIRECTIONS.md)
-
-Research directions beyond the Function-only CGU v1.0 model.
-
-Potential progression:
-
-$$
-F
-\rightarrow
-F+C
-\rightarrow
-F+C+S
-$$
-
-with:
-
-$$
-P = Projection / Policy\ Operator
-$$
-
-Possible future question:
-
-> **Is a conventional CallingGraph a complete structural object, or a functional projection of a richer Calling Structural Space?**
-
----
-
-## 5. Release and Citation Files
-
-### Citation Metadata
-
-[`CITATION.cff`](CITATION.cff)
-
-Canonical citation metadata for GitHub and research software tooling.
-
----
-
-### Zenodo Metadata
-
-[`.zenodo.json`](.zenodo.json)
-
-Metadata used for DOI release through Zenodo.
-
----
-
-### License
-
-[`LICENSE.txt`](LICENSE.txt)
-
-Project license.
-
----
-
-## 6. Recommended Reading Paths
-
-### Fastest Route — 10–15 Minutes
-
-```text
-README.md
-   ↓
-START-HERE.md
-   ↓
-Fig-000
-   ↓
-CGU-001
-   ↓
-CGU-003
-   ↓
-CGU-006
-```
-
-Use this route to understand the overall CGU paradigm quickly.
-
----
-
-### Full Theoretical Route
-
-```text
-CGU-001
-   ↓
-CGU-002
-   ↓
-CGU-003
-   ↓
-CGU-004
-   ↓
-CGU-005
-   ↓
-CGU-006
-```
-
-Conceptual progression:
-
-```text
-Folding
-  ->
-Unfolding
-  ->
-Localization
-  ->
-Design-Time CG
-  ->
-Structural Wargaming
-  ->
-Unfolding Gap
-  ->
-Differential Unfolding
-  ->
-Certification
-  ->
+Major topics:
+
+```text id="ct0009"
+Search vs Unfolding
+Triggering
 Control Plane
+Constraint
+Policy
+Evaluation
+Certification
+Consequential Boundary
+Feedback
+Structural Growth
+Meta-Unfolding
 ```
+
+### Key Principle
+
+> **Search selects within possibility; structural unfolding can change possibility itself.**
+
+### Read This If
+
+You want the **runtime and governance architecture of GSUI**.
 
 ---
 
-### AI Coding / Multi-Agent Route
+## GSUI-005
 
-```text
-CGU-003
-   ↓
-CGU-006
-   ↓
-CGU-005
+### `docs/GSUI-005-Structural-Self-The-Reference-Frame-of-Unfolding.md`
+
+**Structural Self: The Reference Frame of Unfolding**
+
+### Central Questions
+
+> **Delta relative to what?**
+
+> **World Model for whom?**
+
+> **What preserves continuity while structure changes?**
+
+Introduces:
+
+> **Structural Self**
+
+as:
+
+> **the persistent structural reference frame relative to which unfolding, modification, capability, preservation, and continuity are defined.**
+
+Connects:
+
+```text id="ct0010"
+Structural Self
+↔
+Perception
+↔
+World Model
+↔
+Unfolding Space
+↔
+Invariant
+↔
+Growth
+↔
+Governance
 ```
 
-Focus:
+Also develops:
 
-* Design-Time CG
-* structural planning
-* task segmentation
-* AI-agent dispatch
-* coding control
-* validation and certification
+* self-relative world models;
+* machine-native perception;
+* non-anthropomorphic cognition;
+* Structural Self vs consciousness;
+* Internal Interpretability vs Structural Observability;
+* consequential structural certification.
+
+### Key Principle
+
+> **Self need not begin with consciousness. It may begin with structural continuity.**
+
+### Read This If
+
+You want the **deepest conceptual and operational layer of GSUI**.
 
 ---
 
-### Program Analysis Route
-
-```text
-CGU-001
-   ↓
-CGU-002
-   ↓
-CGU-004
-```
-
-Focus:
-
-* Folding
-* Unfolding
-* graph localization
-* structural equivalence
-* Unfolding Gap
+# 3. Supporting Documents
 
 ---
 
-### Certification Route
+## `docs/GSUI-CLAIMS.md`
 
-```text
-CGU-004
-   ↓
-CGU-005
+**Claim Discipline**
+
+Separates GSUI statements into:
+
+```text id="ct0011"
+Core Claims
+Working Hypotheses
+Open Questions
 ```
 
-Focus:
+This file is important because GSUI intentionally spans:
 
-$$
-CGMatch
-\not\Rightarrow
-UnfoldingEquivalence
-$$
+* direct structural observations;
+* theoretical generalizations;
+* speculative research directions.
+
+Recommended for:
+
+> readers evaluating the epistemic status of GSUI claims.
+
+---
+
+## `docs/FUTURE-DIRECTIONS.md`
+
+**Research Frontier**
+
+Develops future research directions including:
+
+```text id="ct0012"
+Unfolding Primitive Algebra
+
+MET Compression of Intelligence Categories
+
+Unfolding Space Geometry
+
+Triggering and Control Plane
+
+Invariant-Preserving Unfolding
+
+Structural Growth and Continual Learning
+
+Structural Self and Autonomous Unfolding
+
+Machine-Native Perception
+
+Self-Relative World Models
+
+Structural Certification
+```
+
+Recommended for:
+
+> researchers looking for follow-up projects.
+
+---
+
+## `docs/GLOSSARY.md`
+
+**Canonical GSUI Terminology**
+
+Defines terms such as:
+
+```text id="ct0013"
+Folding
+Unfolding
+Core Structure
+Delta Modification
+Unfolding Operator
+Unfolding Space
+Control Plane
+Invariant
+Certification
+Structural Growth
+Structural Self
+Operational Self
+Machine-Native Perception
+Consequential Boundary
+Meta-Unfolding
+```
+
+Recommended for:
+
+> consistent terminology across papers and future extensions.
+
+---
+
+## `docs/FIGURE-INDEX.md`
+
+**Figure Navigation and Placement Guide**
+
+Documents the six canonical figures, their meanings, and recommended insertion points across the foundational papers.
+
+Recommended for:
+
+> readers using the visual route through GSUI.
+
+---
+
+# 4. Figure Set
+
+The initial GSUI figure set contains six canonical diagrams.
+
+---
+
+## Fig-000
+
+### `figures/Fig-000-GSUI-Grand-Map.png`
+
+**GSUI Grand Map**
+
+Shows the complete lifecycle:
+
+```text id="ct0014"
+World
+→ Observation
+→ Folding
+→ Core Structure
+→ Unfolding Space
+→ Candidate Delta
+→ Control Plane
+→ Action
+→ Feedback
+→ Structural Growth
+→ Updated Core
+```
+
+Best used as:
+
+> repository-level overview.
+
+---
+
+## Fig-001
+
+### `figures/Fig-001-Folding-Structure-Unfolding-Cycle.png`
+
+**Folding–Structure–Unfolding Cycle**
+
+Focuses on:
+
+```text id="ct0015"
+Observation
+→ Folding
+→ Structure
+→ Unfolding
+→ Consequence
+→ Feedback
+```
+
+Best paired with:
+
+> GSUI-001.
+
+---
+
+## Fig-002
+
+### `figures/Fig-002-Core-Structure-Delta-Modification.png`
+
+**Core Structure + Delta Modification**
+
+Visualizes:
+
+```text id="ct0016"
+Core Structure
+      +
+Delta Modification
+      ↓
+Candidate New Structure
+```
 
 and:
 
 $$
-\Delta CG
-+
-\Delta_U
-+
-Coverage
-+
-RuntimeEvidence
-\rightarrow
-CertificationConfidence
+S' = S \pm \Delta
 $$
+
+Best paired with:
+
+> GSUI-002.
 
 ---
 
-## 7. Core Concept Map
+## Fig-003
 
-```text
-PROGRAM
-   |
-   | Folding
-   v
-CALLINGGRAPH
-   |
-   | Trigger
-   v
-LOCALIZATION
-   |
-   | Unfolding
-   v
-FUNCTIONAL POSSIBILITY
+### `figures/Fig-003-Unfolding-Intelligence-Across-Domains.png`
+
+**Unfolding Intelligence Across Domains**
+
+Compares structural unfolding across:
+
+```text id="ct0017"
+LLM
+CallingGraph
+Tree
+CCC
+ANN
+Generative AI
+Autonomous Systems
 ```
 
-Then upstream:
+Best paired with:
 
-```text
-INTENT
-   |
-   v
-DESIGN-TIME CG
-   |
-   v
-STRUCTURAL WARGAMING
-   |
-   v
-SEGMENTATION
-   |
-   v
-AI DISPATCH
-   |
-   v
-LOCALIZED CODING
+> GSUI-003.
+
+---
+
+## Fig-004
+
+### `figures/Fig-004-Unfolding-Space-and-Control-Plane.png`
+
+**Unfolding Space and Control Plane**
+
+Visualizes:
+
+```text id="ct0018"
+Possible
+→ Reachable
+→ Allowed
+→ Preferred
+→ Selected
+→ Certified
 ```
 
-Then downstream:
+and the role of:
 
-```text
-PROGRAM
-   |
-   v
-REALIZED CG
-   |
-   +--> DELTA-CG
-   |
-   +--> DIFFERENTIAL UNFOLDING
-             |
-             v
-          DELTA-U
-             |
-             v
-      RUNTIME EVIDENCE
-             |
-             v
-       CERTIFICATION
+```text id="ct0019"
+Constraint
+Policy
+Evaluation
+Invariant
+Certification
 ```
 
-And finally:
+Best paired with:
 
-```text
-CERTIFICATION
-      |
-      v
-REPAIR / REPLAN / LEARN
-      |
-      v
-BETTER DESIGN-TIME CG
+> GSUI-004.
+
+---
+
+## Fig-005
+
+### `figures/Fig-005-Structural-Self-as-Unfolding-Reference-Frame.png`
+
+**Structural Self as the Reference Frame of Unfolding**
+
+Shows the relationship among:
+
+```text id="ct0020"
+Structural Self
+World Model
+Perception
+Unfolding Space
+Delta
+Invariant
+Growth
+```
+
+Best paired with:
+
+> GSUI-005.
+
+---
+
+# 5. Recommended Reading Paths
+
+## Full Foundational Path
+
+```text id="ct0021"
+README
+  ↓
+START-HERE
+  ↓
+GSUI-001
+  ↓
+GSUI-002
+  ↓
+GSUI-003
+  ↓
+GSUI-004
+  ↓
+GSUI-005
+  ↓
+GSUI-CLAIMS
+  ↓
+FUTURE-DIRECTIONS
 ```
 
 ---
 
-## 8. Canonical CGU Equations
+## Minimal Conceptual Path
 
-### Folding
+```text id="ct0022"
+GSUI-001
+  ↓
+GSUI-002
+  ↓
+GSUI-003
+```
 
-$$
-\boxed{
-Program
-\xrightarrow{Folding}
-CG
-}
-$$
-
-### Trigger-Localized Unfolding
-
-$$
-\boxed{
-CG
-\xrightarrow{Trigger}
-U(CG,t)
-}
-$$
-
-### Design-Time CallingGraph
-
-$$
-\boxed{
-Intent
-\rightarrow
-DT\text{-}CG
-\rightarrow
-Program
-}
-$$
-
-### Structural Delta
-
-$$
-\boxed{
-\Delta CG = DT\text{-}CG
-\ominus
-RT\text{-}CG
-}
-$$
-
-### Unfolding Gap
-
-$$
-\boxed{
-\Delta_U(t) = U(DT\text{-}CG,t)
-\ominus
-U(RT\text{-}CG,t)
-}
-$$
-
-### Certification
-
-$$
-\boxed{
-\Delta CG
-+
-\Delta_U
-+
-Coverage
-+
-RuntimeEvidence
-+
-Criticality
-\rightarrow
-CertificationConfidence
-}
-$$
-
-### Control Loop
-
-$$
-\boxed{
-DT\text{-}CG
-\xrightarrow{Unfold}
-LocalStructure
-\xrightarrow{Dispatch}
-AI\ Coding
-\xrightarrow{Fold}
-RT\text{-}CG
-\xrightarrow{Diff}
-Evidence
-\xrightarrow{Certify}
-Decision
-\xrightarrow{Learn}
-DT\text{-}CG'
-}
-$$
+Use this route to understand the basic paradigm.
 
 ---
 
-## 9. Canonical CGU Statements
+## Runtime / Engineering Path
 
-> **A CallingGraph is not only a folded representation of existing software; it can also serve as a generative structural skeleton for future software.**
+```text id="ct0023"
+GSUI-002
+  ↓
+GSUI-004
+  ↓
+GSUI-003
+```
 
-> **CallingGraph Unfolding is the trigger-localized expansion of folded functional structure into a bounded functional possibility space.**
+Focus:
 
-> **Design-Time CallingGraph moves AI coding control from token generation toward structural campaign planning.**
-
-> **Structure should determine organization, and organization should determine agent dispatch.**
-
-> **What looks the same when folded may differ when unfolded.**
-
-> **CallingGraph similarity is structural evidence, not universal proof.**
-
-> **Certify the evidence, not just the similarity.**
-
-> **Move AI Coding control upstream—from Token Generation to Structural Planning.**
-
----
-
-## 10. Scope of CGU v1.0
-
-The current repository is deliberately limited to:
-
-$$
-\boxed{
-F=Function
-}
-$$
-
-Included:
-
-* functions;
-* calling relations;
-* calling paths;
-* structural localization;
-* functional unfolding;
-* DT-CG;
-* RT-CG;
-* \(\Delta CG\);
-* \(\Delta_U\);
-* Differential Unfolding;
-* evidence-bounded certification;
-* AI coding control-plane architecture.
-
-Not yet formally included:
-
-* Condition / Context;
-* Runtime State;
-* Data semantics;
-* Policy semantics;
-* Time;
-* Probability;
-* full behavioral equivalence.
+```text id="ct0024"
+Delta
+Operators
+Control Plane
+Certification
+Structural Growth
+```
 
 ---
 
-## 11. Future Structural Direction
+## AI Coding / Governance Path
 
-Potential future progression:
+```text id="ct0025"
+GSUI-002
+  ↓
+GSUI-003
+  ↓
+GSUI-004
+  ↓
+GSUI-005
+```
 
-$$
-\boxed{
-F
-\rightarrow
-F+C
-\rightarrow
-F+C+S
-}
-$$
+Focus especially on:
 
-where:
-
-* **F** = Function;
-* **C** = Condition / Context;
-* **S** = Runtime State.
-
-A possible future operator:
-
-$$
-P = Projection / Policy
-$$
-
-may select relevant structural views.
-
-A richer future model may become:
-
-$$
-CallingStructuralSpace
-\xrightarrow{Projection}
-LocalizedCallingGraph
-\xrightarrow{Unfolding}
-StructuralTrajectory
-$$
-
-This is intentionally outside the scope of CGU v1.0.
+```text id="ct0026"
+Candidate Structural Delta
+Consequential Boundary
+CallingGraph Certification
+Invariant Preservation
+Structural Observability
+```
 
 ---
 
-## 12. CGU Grand Principle
+## Structural Self / AI Philosophy Path
 
-$$
-\boxed{
-\text{Design. Unfold. Dispatch. Generate. Fold. Compare. Certify. Learn.}
-}
-$$
+```text id="ct0027"
+GSUI-001
+  ↓
+GSUI-004
+  ↓
+GSUI-005
+```
 
-The deeper architectural transition is:
+Focus:
 
-$$
-\boxed{
-\text{Move AI Coding Control Upstream—from Token Generation to Structural Planning.}
-}
-$$
-
----
-
-## 13. Suggested Next File
-
-After reading this index, continue with:
-
-[`START-HERE.md`](START-HERE.md)
-
-or begin directly with:
-
-[`docs/CGU-001-CallingGraph-Unfolding.md`](docs/CGU-001-CallingGraph-Unfolding.md)
+```text id="ct0028"
+Structural Self
+Self-Relative World Model
+Machine-Native Perception
+Continuity
+Non-Anthropomorphic Intelligence
+```
 
 ---
 
-**CGU — CallingGraph Unfolding**
+## Continual Learning / Structural Growth Path
 
-> **Fold Structure. Localize Relevance. Unfold Possibility.**
+```text id="ct0029"
+GSUI-002
+  ↓
+GSUI-004
+  ↓
+FUTURE-DIRECTIONS
+```
 
-> **Design the Structure Before Generating the Code.**
+Focus:
 
-> **Certify the Evidence, Not Just the Similarity.**
+```text id="ct0030"
+Retained Delta
+Changed Future Unfolding Space
+Structural Growth
+Meta-Unfolding
+Control-Plane Growth
+```
+
+---
+
+# 6. Core Concept Map
+
+The foundational GSUI vocabulary can be organized as:
+
+```text id="ct0031"
+FOLDING
+   │
+   ▼
+CORE STRUCTURE
+   │
+   ▼
+CONTEXT / TRIGGER
+   │
+   ▼
+UNFOLDING SPACE
+   │
+   ▼
+CANDIDATE DELTA
+   │
+   ▼
+CONTROL PLANE
+   │
+   ├── Constraint
+   ├── Policy
+   ├── Evaluation
+   ├── Invariant
+   └── Certification
+   │
+   ▼
+SELECTED DELTA
+   │
+   ▼
+ACTION / GENERATION
+   │
+   ▼
+FEEDBACK
+   │
+   ▼
+STRUCTURAL GROWTH
+   │
+   ▼
+UPDATED CORE STRUCTURE
+```
+
+Across this process:
+
+```text id="ct0032"
+STRUCTURAL SELF
+```
+
+provides the persistent reference frame for:
+
+```text id="ct0033"
+Delta
+Capability
+Continuity
+World-model meaning
+Unfolding Space
+Growth
+```
+
+---
+
+# 7. Six Foundational Statements
+
+The repository is anchored by six statements.
+
+### 1.
+
+> **Intelligence does not begin only with computation over data; it can also be studied as the unfolding of structure.**
+
+### 2.
+
+> **A broad class of intelligent processes can be represented as `<Core Structure> +/- <Delta Modification>`.**
+
+### 3.
+
+> **Generation is one form of unfolding; unfolding is broader than generation.**
+
+### 4.
+
+> **Intelligent unfolding requires not only possibility, but triggering, constraint, policy, evaluation, feedback, and invariant preservation.**
+
+### 5.
+
+> **Human-defined intelligence categories may eventually compress into a much smaller set of general unfolding primitives.**
+
+### 6.
+
+> **Structural Self may be understood as the persistent reference structure relative to which unfolding and continuity are defined.**
+
+---
+
+# 8. Three Central Research Hypotheses
+
+## Unfolding Universality
+
+> **A broad class of intelligent behaviors may share a useful structural description as constrained unfolding from persistent structure.**
+
+---
+
+## Primitive Compression
+
+> **Many human-defined intelligence categories may eventually be reconstructed from a smaller family of general structural unfolding primitives.**
+
+---
+
+## Structural Self
+
+> **A persistent structural reference frame may provide an operational basis for Delta, continuity, perception, world-model interpretation, capability, and action.**
+
+---
+
+# 9. Key Methodological Boundary
+
+GSUI should not become:
+
+```text id="ct0034"
+Everything changes
+→ therefore everything unfolds
+→ therefore everything is GSUI
+```
+
+A useful GSUI analysis should identify concrete structural answers to questions such as:
+
+```text id="ct0035"
+What persists?
+
+What changes?
+
+What triggers change?
+
+What is the candidate space?
+
+What is reachable?
+
+What is allowed?
+
+What is preferred?
+
+What is selected?
+
+What must remain invariant?
+
+What is certified?
+
+What crosses into consequential action?
+
+What feedback returns?
+
+What becomes persistent structure?
+```
+
+The framework is useful only when these distinctions reveal meaningful structure.
+
+---
+
+# 10. Release Scope
+
+The first GSUI release is a **foundational launch repository**.
+
+Its purpose is to establish:
+
+```text id="ct0036"
+Problem definition
+
+Core structural language
+
+General paradigm
+
+Unfolding Space
+
+Control Plane
+
+Structural Growth
+
+Structural Self
+
+Governance boundary
+
+Claim discipline
+
+Research frontier
+```
+
+It is not presented as a final or complete theory of intelligence.
+
+No generic runtime demo is required for the foundational release.
+
+A future implementation should follow only when stable generic abstractions emerge for concepts such as:
+
+```text id="ct0037"
+CoreStructure
+Delta
+UnfoldingOperator
+Trigger
+Policy
+Invariant
+Evaluator
+Certifier
+Feedback
+GrowthOperator
+```
+
+---
+
+# 11. Complete Repository Layout
+
+```text id="ct0038"
+General-Structure-Unfolding-Intelligence-GSUI/
+│
+├── README.md
+├── START-HERE.md
+├── CONTENTS.md
+│
+├── docs/
+│   ├── GSUI-001-From-Folding-to-Unfolding.md
+│   ├── GSUI-002-Core-Structure-and-Delta-Modification.md
+│   ├── GSUI-003-General-Structure-Unfolding-Intelligence.md
+│   ├── GSUI-004-Unfolding-Space-Control-and-Growth.md
+│   ├── GSUI-005-Structural-Self-The-Reference-Frame-of-Unfolding.md
+│   ├── GSUI-CLAIMS.md
+│   ├── FUTURE-DIRECTIONS.md
+│   ├── GLOSSARY.md
+│   └── FIGURE-INDEX.md
+│
+├── figures/
+│   ├── Fig-000-GSUI-Grand-Map.png
+│   ├── Fig-001-Folding-Structure-Unfolding-Cycle.png
+│   ├── Fig-002-Core-Structure-Delta-Modification.png
+│   ├── Fig-003-Unfolding-Intelligence-Across-Domains.png
+│   ├── Fig-004-Unfolding-Space-and-Control-Plane.png
+│   └── Fig-005-Structural-Self-as-Unfolding-Reference-Frame.png
+│
+├── CITATION.cff
+├── .zenodo.json
+└── LICENSE
+```
+
+---
+
+# 12. One-Line Navigation
+
+```text id="ct0039"
+WHY
+→ GSUI-001
+
+FORM
+→ GSUI-002
+
+PARADIGM
+→ GSUI-003
+
+RUNTIME
+→ GSUI-004
+
+REFERENCE FRAME
+→ GSUI-005
+
+CLAIM STATUS
+→ GSUI-CLAIMS
+
+FUTURE
+→ FUTURE-DIRECTIONS
+
+TERMS
+→ GLOSSARY
+
+VISUALS
+→ FIGURE-INDEX
+```
+
+---
+
+# Final Navigation Principle
+
+If you remember only one reading sequence, use:
+
+```text id="ct0040"
+Why
+  ↓
+Form
+  ↓
+Paradigm
+  ↓
+Runtime
+  ↓
+Self
+```
+
+or:
+
+```text id="ct0041"
+GSUI-001
+→ GSUI-002
+→ GSUI-003
+→ GSUI-004
+→ GSUI-005
+```
+
+That sequence follows the architecture of the theory itself.
+
+---
+
+**GSUI — General Structure Unfolding Intelligence**
+
+**Repository Contents and Navigation**
