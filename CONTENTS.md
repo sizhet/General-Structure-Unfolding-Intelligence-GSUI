@@ -548,9 +548,9 @@ Best paired with:
 
 ---
 
-## Fig-004
+## Fig-005
 
-### `figures/Fig-004-Unfolding-Space-and-Control-Plane.png`
+### `figures/Fig-005-Unfolding-Space-and-Control-Plane.png`
 
 **Unfolding Space and Control Plane**
 
@@ -966,7 +966,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │   ├── Fig-001-Folding-Structure-Unfolding-Cycle.png
 │   ├── Fig-002-Core-Structure-Delta-Modification.png
 │   ├── Fig-003-Unfolding-Intelligence-Across-Domains.png
-│   ├── Fig-004-Unfolding-Space-and-Control-Plane.png
+│   ├── Fig-005-Unfolding-Space-and-Control-Plane.png
 │   └── Fig-006-Structural-Self-as-Unfolding-Reference-Frame.png
 │
 ├── CITATION.cff

@@ -51,7 +51,7 @@ The figures should complement the text rather than replace formal definitions.
 | Fig-001 | Reference Frame of Unfolding             | GSUI-002 / GSUI-005          | Explain Delta relativity          |
 | Fig-002 | Stable Structure and Variable Content    | GSUI-001 / GSUI-002          | Explain Core vs runtime variation |
 | Fig-003 | Hierarchical Structural Organization     | GSUI-003 / GSUI-004          | Explain layered structure         |
-| Fig-004 | Self as Reference Frame                  | GSUI-005                     | Introduce self-relative unfolding |
+| Fig-005 | Self as Reference Frame                  | GSUI-005                     | Introduce self-relative unfolding |
 | Fig-006 | Structural Self and Continuous Unfolding | GSUI-005 / FUTURE-DIRECTIONS | Long-horizon Structural Self      |
 
 ---
@@ -415,11 +415,11 @@ Insert near the discussion of growth changing higher-order structural organizati
 
 ---
 
-# 6. Fig-004 — Self as Reference Frame
+# 6. Fig-005 — Self as Reference Frame
 
 ## Suggested Repository Filename
 
-`figures/Fig-004-Self-as-Unfolding-Reference-Frame.png`
+`figures/Fig-005-Self-as-Unfolding-Reference-Frame.png`
 
 ## Visual Title
 
@@ -501,7 +501,7 @@ This placement prevents readers from interpreting the figure as a consciousness 
 
 ## Recommended Caption
 
-> **Fig-004 — Self as the Reference Frame of Unfolding.**
+> **Fig-005 — Self as the Reference Frame of Unfolding.**
 > A Self provides a reference for perception, capability calibration, candidate possibility, and selection. In GSUI, this reference may be purely structural and operational; no claim of consciousness is required.
 
 ---
@@ -726,7 +726,7 @@ Recommended figures:
 Fig-001
 → reference frame
 
-Fig-004
+Fig-005
 → intuitive Self-relative interpretation
 
 Fig-006
@@ -744,7 +744,7 @@ Definition of Structural Self
         ↓
 Structural / Operational / Cognitive / Narrative Self
         ↓
-Fig-004
+Fig-005
         ↓
 World Model for Whom?
         ↓
@@ -804,7 +804,7 @@ near the beginning.
 Optionally:
 
 ```text
-Fig-004
+Fig-005
 ```
 
 near the Structural Self section.
@@ -842,7 +842,7 @@ HIERARCHICAL STRUCTURE
 Structure exists at multiple scales
         ↓
 
-Fig-004
+Fig-005
 SELF AS REFERENCE FRAME
         ↓
 Capability and possibility become self-relative
@@ -1030,7 +1030,7 @@ figures/
 │
 ├── Fig-003-Hierarchical-Structural-Unfolding.png
 │
-├── Fig-004-Self-as-Unfolding-Reference-Frame.png
+├── Fig-005-Self-as-Unfolding-Reference-Frame.png
 │
 └── Fig-006-Structural-Self-and-Continuous-Unfolding.png
 ```
@@ -1047,7 +1047,7 @@ These filenames describe the actual visual themes directly and remain suitable f
 | Fig-001 |    ○   |          |     ★    |          |          |     ★    |        |
 | Fig-002 |        |     ★    |     ○    |          |          |          |        |
 | Fig-003 |        |          |          |     ★    |     ○    |          |    ○   |
-| Fig-004 |        |          |          |          |          |     ★    |    ○   |
+| Fig-005 |        |          |          |          |          |     ★    |    ○   |
 | Fig-006 |        |          |          |          |          |     ★    |    ★   |
 
 Legend:
@@ -1074,7 +1074,7 @@ Fig-002
 Fig-003
 → Unfolding can occur across structural levels.
 
-Fig-004
+Fig-005
 → Possibility becomes meaningful relative to a Self.
 
 Fig-006

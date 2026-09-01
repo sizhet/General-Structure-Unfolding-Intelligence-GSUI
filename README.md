@@ -1319,7 +1319,7 @@ form.
 
 Cross-domain comparison of LLM, CallingGraph, Tree, CCC, ANN, Generative AI, and autonomous systems.
 
-### Fig-004 — Unfolding Space and Control Plane
+### Fig-005 — Unfolding Space and Control Plane
 
 ```text
 Possible
@@ -1519,7 +1519,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │   ├── Fig-001-Folding-Structure-Unfolding-Cycle.png
 │   ├── Fig-002-Core-Structure-Delta-Modification.png
 │   ├── Fig-003-Unfolding-Intelligence-Across-Domains.png
-│   ├── Fig-004-Unfolding-Space-and-Control-Plane.png
+│   ├── Fig-005-Unfolding-Space-and-Control-Plane.png
 │   └── Fig-006-Structural-Self-as-Unfolding-Reference-Frame.png
 │
 ├── CITATION.cff
