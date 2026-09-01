@@ -1114,7 +1114,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │   └── FIGURE-INDEX.md
 │
 ├── figures/
-│   ├── Fig-000-GSUI-Grand-Map.png
+│   ├── Fig-001-GSUI-Grand-Map.png
 │   ├── Fig-002-Folding-Structure-Unfolding-Cycle.png
 │   ├── Fig-003-Core-Structure-Delta-Modification.png
 │   ├── Fig-004-Unfolding-Intelligence-Across-Domains.png

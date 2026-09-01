@@ -47,7 +47,7 @@ The figures should complement the text rather than replace formal definitions.
 
 | Figure  | Main Theme                               | Primary Paper                | Primary Function                  |
 | ------- | ---------------------------------------- | ---------------------------- | --------------------------------- |
-| Fig-000 | Structure Precedes Content               | README / GSUI-001            | Repository-level conceptual entry |
+| Fig-001 | Structure Precedes Content               | README / GSUI-001            | Repository-level conceptual entry |
 | Fig-002 | Reference Frame of Unfolding             | GSUI-002 / GSUI-005          | Explain Delta relativity          |
 | Fig-003 | Stable Structure and Variable Content    | GSUI-001 / GSUI-002          | Explain Core vs runtime variation |
 | Fig-004 | Hierarchical Structural Organization     | GSUI-003 / GSUI-004          | Explain layered structure         |
@@ -56,11 +56,11 @@ The figures should complement the text rather than replace formal definitions.
 
 ---
 
-# 2. Fig-000 — Structure Precedes Content
+# 2. Fig-001 — Structure Precedes Content
 
 ## Suggested Repository Filename
 
-`figures/Fig-000-Structure-Precedes-Content.png`
+`figures/Fig-001-Structure-Precedes-Content.png`
 
 ## Visual Title
 
@@ -148,7 +148,7 @@ This is the strongest paper-level placement.
 
 ## Recommended Caption
 
-> **Fig-000 — Structure Precedes Content.**
+> **Fig-001 — Structure Precedes Content.**
 > Persistent structure provides the support, constraints, and latent possibility from which variable runtime content and behavior can unfold. GSUI treats structure as relatively persistent rather than absolutely immutable.
 
 ---
@@ -619,7 +619,7 @@ Recommended figures:
 
 ```text
 Primary:
-Fig-000 — Structure Precedes Content
+Fig-001 — Structure Precedes Content
 
 Secondary:
 Fig-003 — Stable Structure and Variable Content
@@ -632,7 +632,7 @@ Introduction
    ↓
 Folding
    ↓
-Fig-000
+Fig-001
    ↓
 Structure
    ↓
@@ -770,7 +770,7 @@ Recommended:
 ```text
 README Hero
    ↓
-Fig-000
+Fig-001
    ↓
 Core Idea
    ↓
@@ -796,7 +796,7 @@ The remaining figures should stay primarily inside the papers to avoid making th
 Recommended maximum:
 
 ```text
-Fig-000
+Fig-001
 ```
 
 near the beginning.
@@ -818,7 +818,7 @@ The document's primary function is rapid conceptual navigation, not visual compl
 The six figures form a conceptual sequence.
 
 ```text
-Fig-000
+Fig-001
 STRUCTURE PRECEDES CONTENT
         ↓
 Persistent structure exists beneath runtime expression
@@ -1004,13 +1004,13 @@ Structural change is meaningful only relative to a reference structure. In GSUI,
 For top-level files such as `README.md`:
 
 ```markdown
-![Fig-000 — Structure Precedes Content](figures/Fig-000-Structure-Precedes-Content.png)
+![Fig-001 — Structure Precedes Content](../figures/Fig-001-Structure-Precedes-Content.png)
 ```
 
 For files inside `docs/`:
 
 ```markdown
-![Fig-000 — Structure Precedes Content](../figures/Fig-000-Structure-Precedes-Content.png)
+![Fig-001 — Structure Precedes Content](../figures/Fig-001-Structure-Precedes-Content.png)
 ```
 
 ---
@@ -1022,7 +1022,7 @@ Recommended repository filenames:
 ```text
 figures/
 │
-├── Fig-000-Structure-Precedes-Content.png
+├── Fig-001-Structure-Precedes-Content.png
 │
 ├── Fig-002-Reference-Frame-of-Unfolding.png
 │
@@ -1043,7 +1043,7 @@ These filenames describe the actual visual themes directly and remain suitable f
 
 | Figure  | README | GSUI-001 | GSUI-002 | GSUI-003 | GSUI-004 | GSUI-005 | FUTURE |
 | ------- | :----: | :------: | :------: | :------: | :------: | :------: | :----: |
-| Fig-000 |    ★   |     ★    |          |          |          |          |        |
+| Fig-001 |    ★   |     ★    |          |          |          |          |        |
 | Fig-002 |    ○   |          |     ★    |          |          |     ★    |        |
 | Fig-003 |        |     ★    |     ○    |          |          |          |        |
 | Fig-004 |        |          |          |     ★    |     ○    |          |    ○   |
@@ -1062,7 +1062,7 @@ Legend:
 # 17. Figure Roles in One Line
 
 ```text
-Fig-000
+Fig-001
 → Structure supports unfolding.
 
 Fig-002

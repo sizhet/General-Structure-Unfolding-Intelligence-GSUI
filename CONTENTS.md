@@ -445,9 +445,9 @@ The initial GSUI figure set contains six canonical diagrams.
 
 ---
 
-## Fig-000
+## Fig-001
 
-### `figures/Fig-000-GSUI-Grand-Map.png`
+### `figures/Fig-001-GSUI-Grand-Map.png`
 
 **GSUI Grand Map**
 
@@ -962,7 +962,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │   └── FIGURE-INDEX.md
 │
 ├── figures/
-│   ├── Fig-000-GSUI-Grand-Map.png
+│   ├── Fig-001-GSUI-Grand-Map.png
 │   ├── Fig-002-Folding-Structure-Unfolding-Cycle.png
 │   ├── Fig-003-Core-Structure-Delta-Modification.png
 │   ├── Fig-004-Unfolding-Intelligence-Across-Domains.png

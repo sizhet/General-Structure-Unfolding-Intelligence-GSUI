@@ -1297,7 +1297,7 @@ Governance
 
 The initial figure set provides a visual route through the GSUI framework.
 
-### Fig-000 — GSUI Grand Map
+### Fig-001 — GSUI Grand Map
 
 The complete lifecycle from Folding to Structure, Unfolding, Control, Feedback, Growth, and updated structure.
 
@@ -1515,7 +1515,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │   └── FIGURE-INDEX.md
 │
 ├── figures/
-│   ├── Fig-000-GSUI-Grand-Map.png
+│   ├── Fig-001-GSUI-Grand-Map.png
 │   ├── Fig-002-Folding-Structure-Unfolding-Cycle.png
 │   ├── Fig-003-Core-Structure-Delta-Modification.png
 │   ├── Fig-004-Unfolding-Intelligence-Across-Domains.png
