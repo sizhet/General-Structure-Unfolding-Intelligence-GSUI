@@ -1,75 +1,59 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it using the metadata in this file."
+message: "If you use this work, please cite it using the metadata below."
 
-title: "CallingGraph Unfolding for AI Coding — From Design-Time Structural Planning to Runtime Validation and Certification"
+title: "General Structure Unfolding Intelligence: From Core Structure and Delta Modification to a General Paradigm of Intelligence"
 
 type: software
 
 authors:
   - family-names: "Tan"
     given-names: "Sizhe"
+  - name: "OpenAI ChatGPT"
 
 version: "1.0.0"
 
 date-released: "2026-09-01"
 
-repository-code: "https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding"
+repository-code: "https://github.com/sizhet/General-Structure-Unfolding-Intelligence-GSUI"
 
-url: "https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding"
+url: "https://github.com/sizhet/General-Structure-Unfolding-Intelligence-GSUI"
 
 abstract: >
-  CallingGraph Unfolding for AI Coding (CGU) studies how a folded
-  functional CallingGraph can be selectively unfolded into localized
-  structural possibilities for design-time planning, AI coding execution,
-  runtime validation, and evidence-bounded certification.
-
-  CGU v1.0 focuses strictly on Function-only CallingGraph structure.
-  It introduces CallingGraph Folding, Trigger-Localized Unfolding,
-  Design-Time CallingGraphs, Structural Wargaming, Realized CallingGraphs,
-  the Unfolding Gap, Differential Unfolding, confidence-based certification,
-  and the CallingGraph as an AI Coding Structural Control Plane.
-
-  The framework moves CallingGraph from a passive post-coding analysis
-  artifact toward an operational structural object that can participate
-  across the software lifecycle:
-
-  Design -> Unfold -> Simulate -> Dispatch -> Code -> Fold ->
-  Compare -> Certify -> Learn.
+  General Structure Unfolding Intelligence (GSUI) develops a structural
+  framework for studying intelligent processes as controlled unfolding
+  from persistent structure. Its canonical form is expressed as
+  <Core Structure> +/- <Delta Modification>, with extensions involving
+  context, triggering, unfolding space, control policy, evaluation,
+  invariant preservation, certification, feedback, structural growth,
+  and Structural Self. The repository examines folding and unfolding as
+  complementary phases of an intelligence cycle, distinguishes search
+  within an existing possibility space from structural unfolding that can
+  change future possibility itself, and introduces Structural Self as the
+  persistent reference frame relative to which Delta, capability,
+  continuity, world-model meaning, and future unfolding are defined.
+  GSUI further explores machine-native perception and cognition while
+  preserving the principle of human-governable consequential action.
 
 keywords:
-  - CallingGraph
-  - CallingGraph Unfolding
-  - CGU
-  - Structural AI
-  - Structural Intelligence
-  - AI Coding
-  - Autonomous Software Engineering
-  - Design-Time CallingGraph
-  - Runtime CallingGraph
-  - Realized CallingGraph
-  - Structural Folding
-  - Structural Unfolding
-  - Trigger-Localized Unfolding
-  - Structural Wargaming
-  - Differential Unfolding
-  - Unfolding Gap
-  - Structural Validation
-  - AI Coding Certification
-  - Evidence-Bounded Certification
-  - Structural Control Plane
-  - Multi-Agent Coding
-  - Structural Planning
-  - Structural Learning
+  - "General Structure Unfolding Intelligence"
+  - "GSUI"
+  - "Structural Intelligence"
+  - "Structure Unfolding"
+  - "Structural Unfolding"
+  - "Core Structure"
+  - "Delta Modification"
+  - "Unfolding Space"
+  - "Control Plane"
+  - "Structural Growth"
+  - "Structural Self"
+  - "Runtime Invariant"
+  - "Invariant Preservation"
+  - "Structural Certification"
+  - "Machine-Native Cognition"
+  - "Machine-Native Perception"
+  - "World Model"
+  - "Continual Learning"
+  - "AI Governance"
+  - "AI Coding"
 
 license: "Apache-2.0"
-
-preferred-citation:
-  type: software
-  title: "CallingGraph Unfolding for AI Coding — From Design-Time Structural Planning to Runtime Validation and Certification"
-  authors:
-    - family-names: "Tan"
-      given-names: "Sizhe"
-  version: "1.0.0"
-  date-released: "2026-09-01"
-  repository-code: "https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding"
-  url: "https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding"
