@@ -1806,7 +1806,7 @@ NEW UNFOLDING SPACE
 
 ## License
 
-See `LICENSE`.
+See `LICENSE.txt`.
 
 ---
 
