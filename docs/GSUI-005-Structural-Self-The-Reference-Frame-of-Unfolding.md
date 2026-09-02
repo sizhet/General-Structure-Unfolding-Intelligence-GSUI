@@ -720,8 +720,7 @@ The third layer is especially important for action.
 A general expression is:
 
 $$
-WM
-=
+WM =
 WM(
 World
 \mid
@@ -1275,8 +1274,7 @@ But the software change can still be represented structurally.
 For example:
 
 $$
-CG_{t+1}
-=
+CG_{t+1} =
 CG_t
 \pm
 \Delta CG
@@ -1412,8 +1410,7 @@ $$
 After:
 
 $$
-Self_{t+1}
-=
+Self_{t+1} =
 Self_t
 +
 Tool
@@ -1460,8 +1457,7 @@ Permissions matter.
 Therefore:
 
 $$
-OperationalSelf
-=
+OperationalSelf =
 Structure
 +
 Capability
@@ -1645,8 +1641,7 @@ The problem becomes controlled continuity rather than frozen identity.
 If Structural Growth modifies persistent structure, then:
 
 $$
-Self_{t+1}
-=
+Self_{t+1} =
 Grow(Self_t,\Delta_t,F_t)
 $$
 
@@ -1815,8 +1810,7 @@ Each implies some system whose state is being evaluated.
 Thus:
 
 $$
-Goal
-=
+Goal =
 Goal(Self,World)
 $$
 
@@ -1847,8 +1841,7 @@ beneficial to a third.
 Thus:
 
 $$
-Risk
-=
+Risk =
 Risk(Self,World,\Delta)
 $$
 
@@ -1909,8 +1902,7 @@ for a particular Structural Self.
 Thus one possible GSUI research direction is:
 
 $$
-Meaning_{operational}
-=
+Meaning_{operational} =
 Effect\ on\ SelfRelativeUnfolding
 $$
 
@@ -2432,8 +2424,7 @@ What philosophical concepts remain necessary once operational selfhood is separa
 ### Structural Self
 
 $$
-Self_t
-=
+Self_t =
 \{
 Core,
 Memory,
@@ -2450,8 +2441,7 @@ This is a provisional analytical representation, not a mandatory implementation.
 ### Operational World Model
 
 $$
-WM_t
-=
+WM_t =
 WM(
 World_t
 \mid
@@ -2464,8 +2454,7 @@ $$
 ### Unfolding Space
 
 $$
-\mathcal{U}_t
-=
+\mathcal{U}_t =
 \mathcal{U}(
 Self_t,
 WM_t,
@@ -2476,8 +2465,7 @@ $$
 ### Selected Delta
 
 $$
-\Delta_t^*
-=
+\Delta_t^* =
 Select(
 \mathcal{U}_t
 \mid
@@ -2489,8 +2477,7 @@ $$
 ### Self Update
 
 $$
-Self_{t+1}
-=
+Self_{t+1} =
 Grow(
 Self_t,
 \Delta_t^*,
@@ -2501,8 +2488,7 @@ $$
 ### Reconstructed Future Space
 
 $$
-\mathcal{U}_{t+1}
-=
+\mathcal{U}_{t+1} =
 \mathcal{U}(
 Self_{t+1},
 WM_{t+1},
