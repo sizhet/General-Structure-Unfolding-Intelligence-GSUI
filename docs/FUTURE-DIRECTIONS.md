@@ -680,8 +680,7 @@ This direction may provide a machine-operational theory of identity without requ
 GSUI proposes:
 
 $$
-WM
-=
+WM =
 WM(
 World
 \mid
@@ -931,8 +930,7 @@ AI can act on X
 Therefore:
 
 $$
-Self_{t+1}
-=
+Self_{t+1} =
 Self_t
 +
 Tool
@@ -1193,8 +1191,7 @@ AI growth should not be measured only by capability.
 A stronger formulation is:
 
 $$
-MatureGrowth
-=
+MatureGrowth =
 CapabilityGrowth
 +
 GovernanceGrowth
@@ -1333,8 +1330,7 @@ Mutation is another natural unfolding operator.
 A generic form is:
 
 $$
-S'
-=
+S' =
 Mutate(S,\Delta)
 $$
 
@@ -1423,8 +1419,7 @@ This could provide a bridge between perception and action.
 GSUI also suggests a limited computational notion of meaning:
 
 $$
-Meaning_{operational}
-=
+Meaning_{operational} =
 Effect\ on\ SelfRelativeUnfolding
 $$
 
@@ -1717,8 +1712,7 @@ Physical autonomous systems provide a natural test of self-relative unfolding.
 For a vehicle or robot:
 
 $$
-\mathcal{U}
-=
+\mathcal{U} =
 \mathcal{U}(Self,World)
 $$
 
