@@ -707,10 +707,7 @@ If a successful Delta adds new capability, then future possibility may expand.
 
 Suppose:
 
-$$
-S_{t+1} =
-S_t+\Delta_{new}
-$$
+$$ S_{t+1} = S_t+\Delta_{new} $$
 
 and the Delta introduces:
 
