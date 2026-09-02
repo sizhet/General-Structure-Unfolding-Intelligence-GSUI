@@ -192,6 +192,52 @@ GSUI begins with a more primitive problem:
 
 ---
 
+Once unfolding is treated as reference-relative, the concept of Self can be introduced without beginning from consciousness.
+
+The first operational question is much simpler:
+
+> **Relative to what structure are change, capability, risk, preservation, and possibility being measured?**
+
+For GSUI, that persistent reference can be called the Structural Self.
+
+![Fig-005 — Self as Unfolding Reference Frame](../figures/Fig-005-Self-as-Unfolding-Reference-Frame.png)
+
+**Fig-005 — Self as the Reference Frame of Unfolding.**  
+A Self provides a reference for perception, capability calibration, candidate possibility, and selection. In GSUI, this reference may be purely structural and operational; no claim of consciousness is required.
+
+The human-readable visual language in Fig-004 should not be interpreted as a requirement for human-like cognition.
+
+For a machine system, the same relation may be expressed as:
+
+```text
+Structural State
+      ↓
+State Estimation
+      ↓
+Capability Calibration
+      ↓
+Candidate Unfolding
+      ↓
+Policy-Governed Selection
+```
+Therefore:
+
+    Structural Self
+    ≠
+    Consciousness
+    
+    Structural Self
+    ≠
+    Personhood
+    
+    Structural Self
+    ≠
+    Narrative Identity
+
+The GSUI concept is operational before it is philosophical.
+
+---
+
 # 3. Structural Self Is Not Necessarily Conscious Self
 
 The word *self* carries substantial philosophical and psychological history.
@@ -1620,6 +1666,62 @@ Therefore learning can become self-modification in the operational sense.
 This does not require philosophical self-awareness.
 
 It requires persistent change to the reference structure.
+
+---
+
+Structural Self should not be understood as an immutable object.
+
+A persistent reference can itself evolve.
+
+The deeper problem is therefore not:
+
+> How can the Self remain unchanged?
+
+but:
+
+> **How can a Self change while preserving sufficient continuity to remain a meaningful structural lineage?**
+
+This turns identity into a problem of continuity through unfolding.
+
+![Fig-006 — Structural Self and Continuous Unfolding](../figures/Fig-006-Structural-Self-and-Continuous-Unfoldin.png)
+
+**Fig-006 — Structural Self and Continuous Unfolding.**  
+Structural Self can be viewed as a persistent architecture whose capabilities and expressions change over time while identity-critical structure or invariants preserve continuity. The model is structural rather than necessarily psychological.
+
+For machine systems, the layered structure can be interpreted operationally as:
+
+```text
+Runtime Invariants
+        ↓
+Core Architecture
+        ↓
+Policy / Memory
+        ↓
+Capability
+        ↓
+Action Interface
+```
+Structural continuity therefore does not require structural immobility.
+
+Instead:
+
+$$ Self_t \rightarrow Self_{t+1} $$
+
+remains coherent when the transition preserves the invariants required for continuity.
+
+This leads directly to the GSUI problem of self-modification:
+
+    Self Modification
+          ↓
+    Capability Reassessment
+          ↓
+    World-Model Reinterpretation
+          ↓
+    Unfolding-Space Reconstruction
+          ↓
+    Policy / Invariant Recheck
+          ↓
+    Recertification
 
 ---
 
