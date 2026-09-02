@@ -288,6 +288,47 @@ This makes Delta a potentially useful common abstraction across many AI systems.
 
 ---
 
+The distinction between Core and Delta should not be interpreted as a distinction between the permanently fixed and the permanently variable.
+
+It is scale-relative.
+
+During a particular unfolding episode:
+
+```text
+Core Structure
+→ relatively persistent
+
+Runtime State / Delta
+→ relatively variable
+```
+At a longer learning or growth scale, the Core itself may become modifiable.
+
+![Fig-003 — Stable Structure and Variable Content](../figures/Fig-003-Stable-Structure-Variable-Content.png)
+
+**Fig-003 — Stable Structure and Variable Content.**  
+A relatively persistent structural boundary can support many changing runtime states. Stability is scale-relative: what functions as Core during one unfolding episode may itself become modifiable during Structural Growth.
+
+This gives GSUI a multi-timescale interpretation:
+
+```text
+Runtime
+→ unfold the current Core
+
+Learning
+→ modify parts of the Core
+
+Structural Growth
+→ reorganize future unfolding capability
+
+Meta-Unfolding
+→ modify mechanisms governing future unfolding
+```
+Therefore:
+
+> **Core means persistent relative to the current analytical scale, not permanently immutable.**
+
+---
+
 # 5. Delta Is Broader Than Addition
 
 One of the most important points in GSUI is:
