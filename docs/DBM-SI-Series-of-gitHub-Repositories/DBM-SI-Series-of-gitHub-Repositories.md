@@ -201,4 +201,7 @@
 59. CallingGraph Unfolding for AI Coding - \
     From Folded Program Structure to a Structural Control Plane for AI/ASI Coding \
     Repository: https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding
-    
+
+60. General Structure Unfolding Intelligence - \
+    From Core Structure and Delta Modification to a General Paradigm of Intelligence \
+    Repository: https://github.com/sizhet/General-Structure-Unfolding-Intelligence-GSUI   
