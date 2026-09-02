@@ -571,8 +571,7 @@ The family of candidate structural modifications available from a current struct
 This may be treated as one representation of an Unfolding Space.
 
 $$
-\mathcal{D}_{candidate}
-=
+\mathcal{D}_{candidate} =
 \{
 \Delta_1,\Delta_2,\ldots,\Delta_n
 \}
@@ -816,8 +815,7 @@ A mechanism that promotes selected runtime outcomes into persistent future struc
 A generic form is:
 
 $$
-S^{core}_{t+1}
-=
+S^{core}_{t+1} =
 G(S^{core}_t,\Delta_t,F_t)
 $$
 
@@ -983,8 +981,7 @@ A provisional GSUI concept in which a signal or structure is operationally meani
 One possible expression is:
 
 $$
-Meaning_{operational}
-=
+Meaning_{operational} =
 Effect\ on\ SelfRelativeUnfolding
 $$
 
@@ -1303,8 +1300,7 @@ Canonical distinction:
 The candidate Delta chosen for further certification or application.
 
 $$
-\Delta^*
-=
+\Delta^* =
 Select(
 \Delta_1,\ldots,\Delta_n
 )
@@ -1341,8 +1337,7 @@ A world representation interpreted relative to the acting Structural Self.
 A provisional form is:
 
 $$
-WM
-=
+WM =
 WM(
 World
 \mid
@@ -1644,8 +1639,7 @@ A future formal system in which complex unfolding can be constructed by composin
 A generic form is:
 
 $$
-U
-=
+U =
 u_n\circ ... \circ u_2\circ u_1
 $$
 
@@ -1695,8 +1689,7 @@ A mechanism that produces or applies a structural transition.
 Generic form:
 
 $$
-S_{t+1}
-=
+S_{t+1} =
 U(S_t,\Delta_t,C_t,P_t)
 $$
 
@@ -1871,8 +1864,7 @@ Self-Relative Operational World Structure
 For action-oriented intelligence, a useful form may be:
 
 $$
-WM
-=
+WM =
 WM(World\mid Self,Context,Capability,Goal)
 $$
 
@@ -2099,8 +2091,7 @@ Canonical principle:
 ## Minimal Structural Transition
 
 $$
-S_{t+1}
-=
+S_{t+1} =
 S_t\pm\Delta_t
 $$
 
@@ -2109,8 +2100,7 @@ $$
 ## General Runtime Form
 
 $$
-S_{t+1}
-=
+S_{t+1} =
 U(
 S_t,
 \Delta_t,
@@ -2126,16 +2116,14 @@ $$
 ## Unfolding Space
 
 $$
-\mathcal{U}
-=
+\mathcal{U} =
 \mathcal{U}(S,C)
 $$
 
 or for acting systems:
 
 $$
-\mathcal{U}
-=
+\mathcal{U} =
 \mathcal{U}(Self,World,Context)
 $$
 
@@ -2160,8 +2148,7 @@ $$
 ## Structural Growth
 
 $$
-S^{core}_{t+1}
-=
+S^{core}_{t+1} =
 G(
 S^{core}_t,
 \Delta_t,
@@ -2174,8 +2161,7 @@ $$
 ## Self-Relative World Model
 
 $$
-WM
-=
+WM =
 WM(
 World
 \mid
