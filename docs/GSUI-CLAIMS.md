@@ -992,8 +992,7 @@ AI growth is often evaluated mainly in terms of capability.
 GSUI proposes a broader target:
 
 $$
-Growth
-=
+Growth =
 CapabilityGrowth
 +
 GovernanceGrowth
