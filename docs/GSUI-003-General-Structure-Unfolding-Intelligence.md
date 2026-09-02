@@ -785,6 +785,49 @@ The physical world makes one GSUI property explicit:
 
 ---
 
+The cross-domain comparison reveals another important property.
+
+Structure is rarely flat.
+
+An intelligent system may contain structures at multiple levels:
+
+```text
+primitive
+→ local structure
+→ subsystem
+→ architecture
+→ complete operational system
+```
+An object that functions as a Delta at one level may become part of the Core at another.
+
+![Fig-004 — Hierarchical Structural Unfolding](../figures/Fig-004-Hierarchical-Structural-Unfolding.png)
+
+**Fig-004 — Hierarchical Structural Unfolding.**  
+Intelligent structure may be layered, with higher-order expression supported by lower-order persistent organization. Unfolding can occur at multiple structural levels, and a structure that is variable at one level may function as Core at another.
+
+This means that GSUI should not assume a single universal Core.
+
+Instead, a system may contain nested structural reference levels:
+
+```text
+Core₁
+  ↓
+Core₂
+  ↓
+Core₃
+  ↓
+Runtime Expression
+```
+Each level may possess its own:
+
+    Delta
+    Trigger
+    Constraint
+    Invariant
+    Unfolding Space
+
+---
+
 # 14. Structural Self Changes the Unfolding Space
 
 Consider two agents in the same world.
@@ -1158,8 +1201,7 @@ $$
 or more specifically:
 
 $$
-\Delta^*
-=
+\Delta^* =
 Select(
 \Delta_1,\ldots,\Delta_n
 )
