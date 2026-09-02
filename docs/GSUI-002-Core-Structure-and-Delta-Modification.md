@@ -111,6 +111,51 @@ The symbols `+/-` represent generalized structural modification.
 
 ---
 
+However, the expression
+
+$$
+\[
+S' = S \pm \Delta
+\]
+$$
+
+contains an important hidden requirement.
+
+A Delta cannot be defined in isolation.
+
+Change always requires a reference:
+
+changed relative to what?
+
+added to what?
+
+removed from what?
+
+preserved relative to what?
+
+![Fig-002 — Reference Frame of Unfolding](../figures/Fig-002-Reference-Frame-of-Unfolding.png)
+
+**Fig-002 — Reference Frame of Unfolding.**  
+Structural change is meaningful only relative to a reference structure. In GSUI, a local Delta may be measured relative to Core Structure, while longer-term continuity may be defined relative to Structural Self.
+
+This gives the Core Structure a second role.
+
+It is not merely stored structure.
+
+It is also the local reference relative to which structural difference becomes meaningful.
+
+Thus:
+
+$$
+\[
+\Delta_t = Difference(S_t,S_{t+1})
+\]
+$$
+
+is meaningful only because \(S_t\) provides the reference.
+
+---
+
 # 2. Why Core Structure Matters
 
 A Delta is meaningful only relative to something that already exists.

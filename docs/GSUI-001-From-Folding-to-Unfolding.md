@@ -142,6 +142,36 @@ Therefore, after Folding comes another fundamental process:
 
 ---
 
+This leads to the first structural distinction of GSUI:
+
+> **The formation of structure and the runtime expression of structure are different problems.**
+
+A learned, extracted, or evolved structure is not identical to the content that it later produces.
+
+Structure provides persistent support, constraint, and latent possibility.
+
+Runtime intelligence appears when that structure is unfolded under particular conditions.
+
+![Fig-001 — Structure Precedes Content](../figures/Fig-001-Structure-Precedes-Content.png)
+
+**Fig-001 — Structure Precedes Content.**  
+Persistent structure provides the support, constraints, and latent possibility 
+from which variable runtime content and behavior can unfold. 
+In GSUI, structure is relatively persistent with respect 
+to the unfolding episode rather than absolutely immutable.
+
+This distinction changes the direction of inquiry.
+
+Instead of asking only:
+
+> How is intelligent structure learned?
+
+we can also ask:
+
+> **Once structure exists, how is intelligence unfolded from it?**
+
+---
+
 # 2. Folding and Unfolding
 
 The two directions can be placed together:
