@@ -1683,7 +1683,7 @@ but:
 
 This turns identity into a problem of continuity through unfolding.
 
-![Fig-006 — Structural Self and Continuous Unfolding](../figures/Fig-006-Structural-Self-and-Continuous-Unfoldin.png)
+![Fig-006 — Structural Self and Continuous Unfolding](../figures/Fig-006-Structural-Self-and-Continuous-Unfolding.png)
 
 **Fig-006 — Structural Self and Continuous Unfolding.**  
 Structural Self can be viewed as a persistent architecture whose capabilities and expressions change over time while identity-critical structure or invariants preserve continuity. The model is structural rather than necessarily psychological.
