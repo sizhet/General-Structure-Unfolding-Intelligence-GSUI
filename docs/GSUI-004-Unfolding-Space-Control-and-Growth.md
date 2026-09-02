@@ -723,11 +723,7 @@ New representation
 
 Then:
 
-$$
-|\mathcal{U}(S_{t+1})|
->
-|\mathcal{U}(S_t)|
-$$
+$$ |\mathcal{U}(S_{t+1})| > |\mathcal{U}(S_t)| $$
 
 may occur.
 
