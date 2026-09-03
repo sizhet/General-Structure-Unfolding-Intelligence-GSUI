@@ -1114,12 +1114,12 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │   └── FIGURE-INDEX.md
 │
 ├── figures/
-│   ├── Fig-001-GSUI-Grand-Map.png
-│   ├── Fig-002-Folding-Structure-Unfolding-Cycle.png
-│   ├── Fig-003-Core-Structure-Delta-Modification.png
-│   ├── Fig-004-Unfolding-Intelligence-Across-Domains.png
-│   ├── Fig-005-Unfolding-Space-and-Control-Plane.png
-│   └── Fig-006-Structural-Self-as-Unfolding-Reference-Frame.png
+│   ├── Fig-001-Structure-Precedes-Content.png
+│   ├── Fig-002-Reference-Frame-of-Unfolding.png
+│   ├── Fig-003-Stable-Structure-Variable-Content.png
+│   ├── Fig-004-Hierarchical-Structural-Unfolding.png
+│   ├── Fig-005-Self-as-Unfolding-Reference-Frame.png
+│   └── Fig-006-Structural-Self-and-Continuous-Unfolding.png
 │
 ├── CITATION.cff
 ├── .zenodo.json
