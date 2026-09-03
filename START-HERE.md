@@ -1123,7 +1123,7 @@ General-Structure-Unfolding-Intelligence-GSUI/
 │
 ├── CITATION.cff
 ├── .zenodo.json
-└── LICENSE
+└── LICENSE.txt
 ```
 
 ---
